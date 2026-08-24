@@ -1,0 +1,120 @@
+name: Bands & Singers
+lang: en
+category: People
+emoji: 🎤
+---
+The Beatles
+The Rolling Stones
+Queen
+Led Zeppelin
+Pink Floyd
+The Who
+Nirvana
+Pearl Jam
+Radiohead
+Oasis
+Blur
+Coldplay
+Muse
+Arctic Monkeys
+The Killers
+Red Hot Chili Peppers
+Foo Fighters
+Green Day
+Linkin Park
+Metallica
+Iron Maiden
+Black Sabbath
+AC/DC
+Guns N' Roses
+Bon Jovi
+U2
+The Cure
+Depeche Mode
+Duran Duran
+Fleetwood Mac
+Eagles
+The Doors
+The Beach Boys
+Abba
+Bee Gees
+Earth, Wind & Fire
+The Jackson 5
+Spice Girls
+Backstreet Boys
+NSYNC
+One Direction
+Take That
+Destiny's Child
+TLC
+Daft Punk
+The Prodigy
+Massive Attack
+Gorillaz
+Elvis Presley
+Michael Jackson
+Prince
+David Bowie
+Freddie Mercury
+Bob Dylan
+Bruce Springsteen
+Johnny Cash
+Dolly Parton
+Whitney Houston
+Mariah Carey
+Céline Dion
+Aretha Franklin
+Tina Turner
+Stevie Wonder
+Ray Charles
+Bob Marley
+Amy Winehouse
+Adele
+Ed Sheeran
+Sam Smith
+Harry Styles
+Justin Timberlake
+Justin Bieber
+Bruno Mars
+The Weeknd
+Drake
+Kanye West
+Jay-Z
+Eminem
+Snoop Dogg
+Tupac
+Notorious B.I.G.
+Kendrick Lamar
+Cardi B
+Nicki Minaj
+Beyoncé
+Rihanna
+Lady Gaga
+Katy Perry
+Taylor Swift
+Ariana Grande
+Billie Eilish
+Miley Cyrus
+Shakira
+Jennifer Lopez
+Enrique Iglesias
+Ricky Martin
+Luis Fonsi
+Bad Bunny
+Rosalía
+Stromae
+Édith Piaf
+Andrea Bocelli
+Luciano Pavarotti
+Dua Lipa
+Rita Ora
+Era Istrefi
+Elvana Gjata
+Noizy
+Ermal Meta
+BTS
+Blackpink
+Psy
+Björk
+Sia
+Lorde

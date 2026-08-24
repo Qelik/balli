@@ -1,0 +1,122 @@
+name: Video Games
+lang: en
+category: Screen
+emoji: 🎮
+---
+Tetris
+Pac-Man
+Space Invaders
+Pong
+Donkey Kong
+Super Mario Bros.
+Mario Kart
+Super Smash Bros.
+The Legend of Zelda
+Metroid
+Pokémon
+Kirby
+Sonic the Hedgehog
+Crash Bandicoot
+Spyro the Dragon
+Rayman
+Prince of Persia
+Tomb Raider
+Uncharted
+The Last of Us
+God of War
+Horizon Zero Dawn
+Ghost of Tsushima
+Red Dead Redemption
+Grand Theft Auto
+Mafia
+Watch Dogs
+Assassin's Creed
+Far Cry
+Just Cause
+Hitman
+Splinter Cell
+Metal Gear Solid
+Resident Evil
+Silent Hill
+Dead Space
+Outlast
+Amnesia
+Five Nights at Freddy's
+Doom
+Quake
+Half-Life
+Portal
+Counter-Strike
+Team Fortress
+Overwatch
+Valorant
+Rainbow Six Siege
+Call of Duty
+Battlefield
+Halo
+Gears of War
+Destiny
+Titanfall
+Apex Legends
+Fortnite
+PUBG
+Minecraft
+Terraria
+Roblox
+Among Us
+Fall Guys
+Rocket League
+FIFA
+Pro Evolution Soccer
+NBA 2K
+Madden NFL
+Tony Hawk's Pro Skater
+Need for Speed
+Gran Turismo
+Forza Horizon
+Burnout
+Mario Party
+Wii Sports
+Just Dance
+Guitar Hero
+Rock Band
+SingStar
+The Sims
+SimCity
+Cities: Skylines
+Civilization
+Age of Empires
+StarCraft
+Warcraft
+World of Warcraft
+League of Legends
+Dota 2
+Diablo
+Path of Exile
+The Elder Scrolls
+Skyrim
+Fallout
+Mass Effect
+Dragon Age
+The Witcher
+Cyberpunk 2077
+Dark Souls
+Bloodborne
+Elden Ring
+Sekiro
+Hollow Knight
+Celeste
+Stardew Valley
+Animal Crossing
+Journey
+Limbo
+Braid
+Cuphead
+Undertale
+Angry Birds
+Candy Crush
+Temple Run
+Subway Surfers
+Flappy Bird
+Clash of Clans
+Pokémon Go

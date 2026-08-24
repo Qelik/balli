@@ -1,0 +1,354 @@
+{
+  "id": "music-acts",
+  "name": "Bands & Singers",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "95d7c695",
+  "cards": [
+    {
+      "t": "The Beatles"
+    },
+    {
+      "t": "The Rolling Stones"
+    },
+    {
+      "t": "Queen"
+    },
+    {
+      "t": "Led Zeppelin"
+    },
+    {
+      "t": "Pink Floyd"
+    },
+    {
+      "t": "The Who"
+    },
+    {
+      "t": "Nirvana"
+    },
+    {
+      "t": "Pearl Jam"
+    },
+    {
+      "t": "Radiohead"
+    },
+    {
+      "t": "Oasis"
+    },
+    {
+      "t": "Blur"
+    },
+    {
+      "t": "Coldplay"
+    },
+    {
+      "t": "Muse"
+    },
+    {
+      "t": "Arctic Monkeys"
+    },
+    {
+      "t": "The Killers"
+    },
+    {
+      "t": "Red Hot Chili Peppers"
+    },
+    {
+      "t": "Foo Fighters"
+    },
+    {
+      "t": "Green Day"
+    },
+    {
+      "t": "Linkin Park"
+    },
+    {
+      "t": "Metallica"
+    },
+    {
+      "t": "Iron Maiden"
+    },
+    {
+      "t": "Black Sabbath"
+    },
+    {
+      "t": "AC/DC"
+    },
+    {
+      "t": "Guns N' Roses"
+    },
+    {
+      "t": "Bon Jovi"
+    },
+    {
+      "t": "U2"
+    },
+    {
+      "t": "The Cure"
+    },
+    {
+      "t": "Depeche Mode"
+    },
+    {
+      "t": "Duran Duran"
+    },
+    {
+      "t": "Fleetwood Mac"
+    },
+    {
+      "t": "Eagles"
+    },
+    {
+      "t": "The Doors"
+    },
+    {
+      "t": "The Beach Boys"
+    },
+    {
+      "t": "Abba"
+    },
+    {
+      "t": "Bee Gees"
+    },
+    {
+      "t": "Earth, Wind & Fire"
+    },
+    {
+      "t": "The Jackson 5"
+    },
+    {
+      "t": "Spice Girls"
+    },
+    {
+      "t": "Backstreet Boys"
+    },
+    {
+      "t": "NSYNC"
+    },
+    {
+      "t": "One Direction"
+    },
+    {
+      "t": "Take That"
+    },
+    {
+      "t": "Destiny's Child"
+    },
+    {
+      "t": "TLC"
+    },
+    {
+      "t": "Daft Punk"
+    },
+    {
+      "t": "The Prodigy"
+    },
+    {
+      "t": "Massive Attack"
+    },
+    {
+      "t": "Gorillaz"
+    },
+    {
+      "t": "Elvis Presley"
+    },
+    {
+      "t": "Michael Jackson"
+    },
+    {
+      "t": "Prince"
+    },
+    {
+      "t": "David Bowie"
+    },
+    {
+      "t": "Freddie Mercury"
+    },
+    {
+      "t": "Bob Dylan"
+    },
+    {
+      "t": "Bruce Springsteen"
+    },
+    {
+      "t": "Johnny Cash"
+    },
+    {
+      "t": "Dolly Parton"
+    },
+    {
+      "t": "Whitney Houston"
+    },
+    {
+      "t": "Mariah Carey"
+    },
+    {
+      "t": "Céline Dion"
+    },
+    {
+      "t": "Aretha Franklin"
+    },
+    {
+      "t": "Tina Turner"
+    },
+    {
+      "t": "Stevie Wonder"
+    },
+    {
+      "t": "Ray Charles"
+    },
+    {
+      "t": "Bob Marley"
+    },
+    {
+      "t": "Amy Winehouse"
+    },
+    {
+      "t": "Adele"
+    },
+    {
+      "t": "Ed Sheeran"
+    },
+    {
+      "t": "Sam Smith"
+    },
+    {
+      "t": "Harry Styles"
+    },
+    {
+      "t": "Justin Timberlake"
+    },
+    {
+      "t": "Justin Bieber"
+    },
+    {
+      "t": "Bruno Mars"
+    },
+    {
+      "t": "The Weeknd"
+    },
+    {
+      "t": "Drake"
+    },
+    {
+      "t": "Kanye West"
+    },
+    {
+      "t": "Jay-Z"
+    },
+    {
+      "t": "Eminem"
+    },
+    {
+      "t": "Snoop Dogg"
+    },
+    {
+      "t": "Tupac"
+    },
+    {
+      "t": "Notorious B.I.G."
+    },
+    {
+      "t": "Kendrick Lamar"
+    },
+    {
+      "t": "Cardi B"
+    },
+    {
+      "t": "Nicki Minaj"
+    },
+    {
+      "t": "Beyoncé"
+    },
+    {
+      "t": "Rihanna"
+    },
+    {
+      "t": "Lady Gaga"
+    },
+    {
+      "t": "Katy Perry"
+    },
+    {
+      "t": "Taylor Swift"
+    },
+    {
+      "t": "Ariana Grande"
+    },
+    {
+      "t": "Billie Eilish"
+    },
+    {
+      "t": "Miley Cyrus"
+    },
+    {
+      "t": "Shakira"
+    },
+    {
+      "t": "Jennifer Lopez"
+    },
+    {
+      "t": "Enrique Iglesias"
+    },
+    {
+      "t": "Ricky Martin"
+    },
+    {
+      "t": "Luis Fonsi"
+    },
+    {
+      "t": "Bad Bunny"
+    },
+    {
+      "t": "Rosalía"
+    },
+    {
+      "t": "Stromae"
+    },
+    {
+      "t": "Édith Piaf"
+    },
+    {
+      "t": "Andrea Bocelli"
+    },
+    {
+      "t": "Luciano Pavarotti"
+    },
+    {
+      "t": "Dua Lipa"
+    },
+    {
+      "t": "Rita Ora"
+    },
+    {
+      "t": "Era Istrefi"
+    },
+    {
+      "t": "Elvana Gjata"
+    },
+    {
+      "t": "Noizy"
+    },
+    {
+      "t": "Ermal Meta"
+    },
+    {
+      "t": "BTS"
+    },
+    {
+      "t": "Blackpink"
+    },
+    {
+      "t": "Psy"
+    },
+    {
+      "t": "Björk"
+    },
+    {
+      "t": "Sia"
+    },
+    {
+      "t": "Lorde"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+name: Superheroes
+lang: en
+category: Screen
+emoji: 🦸
+---
+Superman
+Batman
+Wonder Woman
+The Flash
+Aquaman
+Green Lantern
+Cyborg
+Martian Manhunter
+Robin
+Batgirl
+Nightwing
+Supergirl
+Shazam
+Green Arrow
+Black Canary
+Hawkgirl
+Zatanna
+The Joker
+Harley Quinn
+Lex Luthor
+The Penguin
+The Riddler
+Two-Face
+Poison Ivy
+Catwoman
+Bane
+Scarecrow
+Mr. Freeze
+Darkseid
+Spider-Man
+Iron Man
+Captain America
+Thor
+Hulk
+Black Widow
+Hawkeye
+Doctor Strange
+Black Panther
+Ant-Man
+The Wasp
+Captain Marvel
+Scarlet Witch
+Vision
+Falcon
+Winter Soldier
+Star-Lord
+Gamora
+Rocket Raccoon
+Groot
+Drax
+Nebula
+Loki
+Thanos
+Ultron
+Red Skull
+Green Goblin
+Doctor Octopus
+Venom
+Carnage
+Mysterio
+Kingpin
+Magneto
+Professor X
+Wolverine
+Storm
+Cyclops
+Jean Grey
+Mystique
+Beast
+Nightcrawler
+Rogue
+Gambit
+Deadpool
+Daredevil
+Punisher
+Ghost Rider
+Blade
+Silver Surfer
+Mister Fantastic
+Invisible Woman
+Human Torch
+The Thing
+Galactus
+Miles Morales
+Spider-Gwen
+Moon Knight
+She-Hulk
+Hellboy
+The Incredibles
+Mr. Incredible
+Elastigirl
+Frozone
+Kick-Ass
+Watchmen
+Rorschach
+Doctor Manhattan
+Homelander
+Billy Butcher
+Invincible
+Omni-Man
+Saitama
+All Might
+Astro Boy
+Power Rangers
+Teenage Mutant Ninja Turtles
+He-Man
+Popeye
+Darkwing Duck

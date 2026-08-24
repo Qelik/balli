@@ -1,0 +1,12 @@
+{
+  "name": "Balli",
+  "short_name": "Balli",
+  "description": "Forehead party game. Hold it up, tilt down to score, tilt up to pass.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#10131a",
+  "theme_color": "#10131a",
+  "icons": []
+}

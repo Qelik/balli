@@ -1,0 +1,357 @@
+{
+  "id": "jobs",
+  "name": "Jobs",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "08e73474",
+  "cards": [
+    {
+      "t": "Doctor"
+    },
+    {
+      "t": "Nurse"
+    },
+    {
+      "t": "Surgeon"
+    },
+    {
+      "t": "Dentist"
+    },
+    {
+      "t": "Pharmacist"
+    },
+    {
+      "t": "Vet"
+    },
+    {
+      "t": "Paramedic"
+    },
+    {
+      "t": "Firefighter"
+    },
+    {
+      "t": "Police officer"
+    },
+    {
+      "t": "Soldier"
+    },
+    {
+      "t": "Lifeguard"
+    },
+    {
+      "t": "Teacher"
+    },
+    {
+      "t": "Professor"
+    },
+    {
+      "t": "Librarian"
+    },
+    {
+      "t": "Scientist"
+    },
+    {
+      "t": "Engineer"
+    },
+    {
+      "t": "Architect"
+    },
+    {
+      "t": "Builder"
+    },
+    {
+      "t": "Plumber"
+    },
+    {
+      "t": "Electrician"
+    },
+    {
+      "t": "Carpenter"
+    },
+    {
+      "t": "Decorator"
+    },
+    {
+      "t": "Mechanic"
+    },
+    {
+      "t": "Welder"
+    },
+    {
+      "t": "Farmer"
+    },
+    {
+      "t": "Fisherman"
+    },
+    {
+      "t": "Gardener"
+    },
+    {
+      "t": "Chef"
+    },
+    {
+      "t": "Baker"
+    },
+    {
+      "t": "Butcher"
+    },
+    {
+      "t": "Barista"
+    },
+    {
+      "t": "Waiter"
+    },
+    {
+      "t": "Bartender"
+    },
+    {
+      "t": "Cleaner"
+    },
+    {
+      "t": "Hairdresser"
+    },
+    {
+      "t": "Barber"
+    },
+    {
+      "t": "Tailor"
+    },
+    {
+      "t": "Shoemaker"
+    },
+    {
+      "t": "Jeweller"
+    },
+    {
+      "t": "Watchmaker"
+    },
+    {
+      "t": "Photographer"
+    },
+    {
+      "t": "Journalist"
+    },
+    {
+      "t": "News reporter"
+    },
+    {
+      "t": "Presenter"
+    },
+    {
+      "t": "Radio DJ"
+    },
+    {
+      "t": "Actor"
+    },
+    {
+      "t": "Comedian"
+    },
+    {
+      "t": "Singer"
+    },
+    {
+      "t": "Musician"
+    },
+    {
+      "t": "Conductor"
+    },
+    {
+      "t": "Dancer"
+    },
+    {
+      "t": "Painter"
+    },
+    {
+      "t": "Sculptor"
+    },
+    {
+      "t": "Writer"
+    },
+    {
+      "t": "Poet"
+    },
+    {
+      "t": "Translator"
+    },
+    {
+      "t": "Lawyer"
+    },
+    {
+      "t": "Judge"
+    },
+    {
+      "t": "Accountant"
+    },
+    {
+      "t": "Banker"
+    },
+    {
+      "t": "Estate agent"
+    },
+    {
+      "t": "Salesperson"
+    },
+    {
+      "t": "Cashier"
+    },
+    {
+      "t": "Shopkeeper"
+    },
+    {
+      "t": "Receptionist"
+    },
+    {
+      "t": "Secretary"
+    },
+    {
+      "t": "Manager"
+    },
+    {
+      "t": "Consultant"
+    },
+    {
+      "t": "Programmer"
+    },
+    {
+      "t": "Designer"
+    },
+    {
+      "t": "Pilot"
+    },
+    {
+      "t": "Flight attendant"
+    },
+    {
+      "t": "Bus driver"
+    },
+    {
+      "t": "Taxi driver"
+    },
+    {
+      "t": "Truck driver"
+    },
+    {
+      "t": "Train driver"
+    },
+    {
+      "t": "Sailor"
+    },
+    {
+      "t": "Astronaut"
+    },
+    {
+      "t": "Postman"
+    },
+    {
+      "t": "Delivery driver"
+    },
+    {
+      "t": "Rubbish collector"
+    },
+    {
+      "t": "Security guard"
+    },
+    {
+      "t": "Bodyguard"
+    },
+    {
+      "t": "Detective"
+    },
+    {
+      "t": "Spy"
+    },
+    {
+      "t": "Referee"
+    },
+    {
+      "t": "Football coach"
+    },
+    {
+      "t": "Personal trainer"
+    },
+    {
+      "t": "Yoga teacher"
+    },
+    {
+      "t": "Massage therapist"
+    },
+    {
+      "t": "Optician"
+    },
+    {
+      "t": "Physiotherapist"
+    },
+    {
+      "t": "Psychologist"
+    },
+    {
+      "t": "Social worker"
+    },
+    {
+      "t": "Priest"
+    },
+    {
+      "t": "Politician"
+    },
+    {
+      "t": "Diplomat"
+    },
+    {
+      "t": "Archaeologist"
+    },
+    {
+      "t": "Geologist"
+    },
+    {
+      "t": "Meteorologist"
+    },
+    {
+      "t": "Zookeeper"
+    },
+    {
+      "t": "Beekeeper"
+    },
+    {
+      "t": "Miner"
+    },
+    {
+      "t": "Lumberjack"
+    },
+    {
+      "t": "Blacksmith"
+    },
+    {
+      "t": "Magician"
+    },
+    {
+      "t": "Clown"
+    },
+    {
+      "t": "Juggler"
+    },
+    {
+      "t": "Acrobat"
+    },
+    {
+      "t": "Stuntman"
+    },
+    {
+      "t": "Model"
+    },
+    {
+      "t": "Tattoo artist"
+    },
+    {
+      "t": "Florist"
+    },
+    {
+      "t": "Undertaker"
+    },
+    {
+      "t": "Bin man"
+    },
+    {
+      "t": "Lighthouse keeper"
+    }
+  ]
+}

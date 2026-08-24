@@ -1,0 +1,130 @@
+name: Food & Drink
+lang: en
+category: Everyday
+emoji: 🍕
+---
+Pizza
+Burger
+Hot dog
+Spaghetti
+Lasagne
+Risotto
+Sushi
+Ramen
+Dumplings
+Fried rice
+Noodles
+Tacos
+Burrito
+Nachos
+Quesadilla
+Paella
+Kebab
+Falafel
+Hummus
+Shawarma
+Curry
+Biryani
+Naan bread
+Samosa
+Pad Thai
+Pho
+Croissant
+Baguette
+Pancakes
+Waffles
+French toast
+Porridge
+Cereal
+Scrambled eggs
+Omelette
+Bacon
+Sausage
+Steak
+Roast chicken
+Meatballs
+Fish and chips
+Shepherd's pie
+Mashed potatoes
+Chips
+Roast potatoes
+Salad
+Coleslaw
+Soup
+Stew
+Chilli
+Baked beans
+Grilled cheese
+Toast
+Peanut butter
+Jam
+Honey
+Cheese
+Yoghurt
+Butter
+Olive oil
+Salt
+Black pepper
+Garlic
+Onion
+Tomato
+Cucumber
+Lettuce
+Carrot
+Broccoli
+Cauliflower
+Spinach
+Mushroom
+Bell pepper
+Aubergine
+Courgette
+Corn
+Peas
+Beans
+Rice
+Bread
+Pasta
+Apple
+Banana
+Orange
+Lemon
+Grapes
+Strawberry
+Raspberry
+Blueberry
+Watermelon
+Pineapple
+Mango
+Peach
+Pear
+Cherry
+Avocado
+Coconut
+Chocolate
+Ice cream
+Cake
+Cheesecake
+Brownie
+Doughnut
+Cookie
+Biscuit
+Muffin
+Pie
+Pudding
+Jelly
+Marshmallow
+Popcorn
+Crisps
+Coffee
+Tea
+Hot chocolate
+Milk
+Orange juice
+Lemonade
+Smoothie
+Milkshake
+Water
+Beer
+Wine
+Champagne
+Cocktail

@@ -1,0 +1,435 @@
+{
+  "id": "act-it-out",
+  "name": "Act It Out",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "70ada0e3",
+  "cards": [
+    {
+      "t": "Sneezing"
+    },
+    {
+      "t": "Yawning"
+    },
+    {
+      "t": "Snoring"
+    },
+    {
+      "t": "Laughing"
+    },
+    {
+      "t": "Crying"
+    },
+    {
+      "t": "Shivering"
+    },
+    {
+      "t": "Sweating"
+    },
+    {
+      "t": "Blushing"
+    },
+    {
+      "t": "Winking"
+    },
+    {
+      "t": "Whistling"
+    },
+    {
+      "t": "Clapping"
+    },
+    {
+      "t": "Waving"
+    },
+    {
+      "t": "Pointing"
+    },
+    {
+      "t": "Shrugging"
+    },
+    {
+      "t": "Nodding"
+    },
+    {
+      "t": "Tiptoeing"
+    },
+    {
+      "t": "Limping"
+    },
+    {
+      "t": "Skipping"
+    },
+    {
+      "t": "Jogging"
+    },
+    {
+      "t": "Sprinting"
+    },
+    {
+      "t": "Swimming"
+    },
+    {
+      "t": "Diving"
+    },
+    {
+      "t": "Climbing"
+    },
+    {
+      "t": "Crawling"
+    },
+    {
+      "t": "Juggling"
+    },
+    {
+      "t": "Dancing"
+    },
+    {
+      "t": "Spinning"
+    },
+    {
+      "t": "Jumping"
+    },
+    {
+      "t": "Stretching"
+    },
+    {
+      "t": "Push-ups"
+    },
+    {
+      "t": "Sit-ups"
+    },
+    {
+      "t": "Lifting weights"
+    },
+    {
+      "t": "Skipping rope"
+    },
+    {
+      "t": "Riding a bike"
+    },
+    {
+      "t": "Riding a horse"
+    },
+    {
+      "t": "Driving a car"
+    },
+    {
+      "t": "Parallel parking"
+    },
+    {
+      "t": "Hitchhiking"
+    },
+    {
+      "t": "Rowing a boat"
+    },
+    {
+      "t": "Paddling"
+    },
+    {
+      "t": "Surfing"
+    },
+    {
+      "t": "Skiing"
+    },
+    {
+      "t": "Ice skating"
+    },
+    {
+      "t": "Skateboarding"
+    },
+    {
+      "t": "Playing football"
+    },
+    {
+      "t": "Scoring a goal"
+    },
+    {
+      "t": "Shooting a basketball"
+    },
+    {
+      "t": "Serving a tennis ball"
+    },
+    {
+      "t": "Swinging a golf club"
+    },
+    {
+      "t": "Bowling"
+    },
+    {
+      "t": "Fishing"
+    },
+    {
+      "t": "Archery"
+    },
+    {
+      "t": "Boxing"
+    },
+    {
+      "t": "Wrestling"
+    },
+    {
+      "t": "Fencing"
+    },
+    {
+      "t": "Karate chop"
+    },
+    {
+      "t": "Playing guitar"
+    },
+    {
+      "t": "Playing piano"
+    },
+    {
+      "t": "Playing drums"
+    },
+    {
+      "t": "Playing violin"
+    },
+    {
+      "t": "Playing trumpet"
+    },
+    {
+      "t": "Conducting an orchestra"
+    },
+    {
+      "t": "Singing karaoke"
+    },
+    {
+      "t": "Taking a selfie"
+    },
+    {
+      "t": "Texting"
+    },
+    {
+      "t": "Typing"
+    },
+    {
+      "t": "Answering the phone"
+    },
+    {
+      "t": "Reading a book"
+    },
+    {
+      "t": "Writing a letter"
+    },
+    {
+      "t": "Painting a picture"
+    },
+    {
+      "t": "Taking a photo"
+    },
+    {
+      "t": "Watching television"
+    },
+    {
+      "t": "Changing the channel"
+    },
+    {
+      "t": "Playing video games"
+    },
+    {
+      "t": "Shuffling cards"
+    },
+    {
+      "t": "Rolling dice"
+    },
+    {
+      "t": "Blowing out candles"
+    },
+    {
+      "t": "Opening a present"
+    },
+    {
+      "t": "Wrapping a gift"
+    },
+    {
+      "t": "Tying shoelaces"
+    },
+    {
+      "t": "Buttoning a shirt"
+    },
+    {
+      "t": "Zipping a jacket"
+    },
+    {
+      "t": "Putting on gloves"
+    },
+    {
+      "t": "Brushing teeth"
+    },
+    {
+      "t": "Washing hands"
+    },
+    {
+      "t": "Taking a shower"
+    },
+    {
+      "t": "Shaving"
+    },
+    {
+      "t": "Combing hair"
+    },
+    {
+      "t": "Applying lipstick"
+    },
+    {
+      "t": "Cutting hair"
+    },
+    {
+      "t": "Painting nails"
+    },
+    {
+      "t": "Cooking dinner"
+    },
+    {
+      "t": "Chopping onions"
+    },
+    {
+      "t": "Flipping a pancake"
+    },
+    {
+      "t": "Stirring a pot"
+    },
+    {
+      "t": "Washing dishes"
+    },
+    {
+      "t": "Sweeping the floor"
+    },
+    {
+      "t": "Vacuuming"
+    },
+    {
+      "t": "Mopping"
+    },
+    {
+      "t": "Making the bed"
+    },
+    {
+      "t": "Folding laundry"
+    },
+    {
+      "t": "Ironing a shirt"
+    },
+    {
+      "t": "Hanging a picture"
+    },
+    {
+      "t": "Hammering a nail"
+    },
+    {
+      "t": "Sawing wood"
+    },
+    {
+      "t": "Painting a wall"
+    },
+    {
+      "t": "Changing a light bulb"
+    },
+    {
+      "t": "Watering plants"
+    },
+    {
+      "t": "Mowing the lawn"
+    },
+    {
+      "t": "Raking leaves"
+    },
+    {
+      "t": "Shovelling snow"
+    },
+    {
+      "t": "Walking the dog"
+    },
+    {
+      "t": "Feeding a baby"
+    },
+    {
+      "t": "Rocking a baby"
+    },
+    {
+      "t": "Changing a nappy"
+    },
+    {
+      "t": "Carrying shopping"
+    },
+    {
+      "t": "Pushing a trolley"
+    },
+    {
+      "t": "Paying at a till"
+    },
+    {
+      "t": "Waiting in a queue"
+    },
+    {
+      "t": "Missing the bus"
+    },
+    {
+      "t": "Hailing a taxi"
+    },
+    {
+      "t": "Boarding a plane"
+    },
+    {
+      "t": "Fastening a seatbelt"
+    },
+    {
+      "t": "Checking a map"
+    },
+    {
+      "t": "Getting lost"
+    },
+    {
+      "t": "Sleeping"
+    },
+    {
+      "t": "Waking up"
+    },
+    {
+      "t": "Hitting snooze"
+    },
+    {
+      "t": "Falling over"
+    },
+    {
+      "t": "Slipping on ice"
+    },
+    {
+      "t": "Being tickled"
+    },
+    {
+      "t": "Being scared"
+    },
+    {
+      "t": "Being freezing cold"
+    },
+    {
+      "t": "Being boiling hot"
+    },
+    {
+      "t": "Eating something spicy"
+    },
+    {
+      "t": "Eating something sour"
+    },
+    {
+      "t": "Drinking through a straw"
+    },
+    {
+      "t": "Blowing a bubble"
+    },
+    {
+      "t": "Sneaking around"
+    },
+    {
+      "t": "Tiptoeing past a guard"
+    },
+    {
+      "t": "Miming a wall"
+    },
+    {
+      "t": "Miming a rope"
+    }
+  ]
+}

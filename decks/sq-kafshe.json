@@ -1,0 +1,309 @@
+{
+  "id": "sq-kafshe",
+  "name": "Kafshë",
+  "lang": "sq",
+  "source": "handwritten",
+  "version": "99292491",
+  "cards": [
+    {
+      "t": "Elefant"
+    },
+    {
+      "t": "Gjirafë"
+    },
+    {
+      "t": "Pinguin"
+    },
+    {
+      "t": "Kangur"
+    },
+    {
+      "t": "Krokodil"
+    },
+    {
+      "t": "Hipopotam"
+    },
+    {
+      "t": "Rinoqeront"
+    },
+    {
+      "t": "Gepard"
+    },
+    {
+      "t": "Leopard"
+    },
+    {
+      "t": "Tigër"
+    },
+    {
+      "t": "Luan"
+    },
+    {
+      "t": "Panda"
+    },
+    {
+      "t": "Ari"
+    },
+    {
+      "t": "Ari polar"
+    },
+    {
+      "t": "Koala"
+    },
+    {
+      "t": "Majmun"
+    },
+    {
+      "t": "Gorillë"
+    },
+    {
+      "t": "Zebër"
+    },
+    {
+      "t": "Deve"
+    },
+    {
+      "t": "Lama"
+    },
+    {
+      "t": "Gomar"
+    },
+    {
+      "t": "Kalë"
+    },
+    {
+      "t": "Lopë"
+    },
+    {
+      "t": "Dele"
+    },
+    {
+      "t": "Dhi"
+    },
+    {
+      "t": "Derr"
+    },
+    {
+      "t": "Pulë"
+    },
+    {
+      "t": "Gjel"
+    },
+    {
+      "t": "Rosë"
+    },
+    {
+      "t": "Patë"
+    },
+    {
+      "t": "Gjel deti"
+    },
+    {
+      "t": "Palloi"
+    },
+    {
+      "t": "Struc"
+    },
+    {
+      "t": "Flamingo"
+    },
+    {
+      "t": "Pelikan"
+    },
+    {
+      "t": "Pulëbardhë"
+    },
+    {
+      "t": "Shqiponjë"
+    },
+    {
+      "t": "Buf"
+    },
+    {
+      "t": "Papagall"
+    },
+    {
+      "t": "Qukapik"
+    },
+    {
+      "t": "Mjellmë"
+    },
+    {
+      "t": "Sorrë"
+    },
+    {
+      "t": "Pëllumb"
+    },
+    {
+      "t": "Lakuriq nate"
+    },
+    {
+      "t": "Mi"
+    },
+    {
+      "t": "Ketër"
+    },
+    {
+      "t": "Iriq"
+    },
+    {
+      "t": "Lepur"
+    },
+    {
+      "t": "Dhelpër"
+    },
+    {
+      "t": "Ujk"
+    },
+    {
+      "t": "Dre"
+    },
+    {
+      "t": "Vidër"
+    },
+    {
+      "t": "Kastor"
+    },
+    {
+      "t": "Gjarpër"
+    },
+    {
+      "t": "Hardhucë"
+    },
+    {
+      "t": "Kameleon"
+    },
+    {
+      "t": "Breshkë"
+    },
+    {
+      "t": "Bretkosë"
+    },
+    {
+      "t": "Peshkaqen"
+    },
+    {
+      "t": "Balenë"
+    },
+    {
+      "t": "Delfin"
+    },
+    {
+      "t": "Oktapod"
+    },
+    {
+      "t": "Kallamar"
+    },
+    {
+      "t": "Kandil deti"
+    },
+    {
+      "t": "Yll deti"
+    },
+    {
+      "t": "Gaforre"
+    },
+    {
+      "t": "Karavidhe"
+    },
+    {
+      "t": "Karkalec deti"
+    },
+    {
+      "t": "Kalë deti"
+    },
+    {
+      "t": "Ngjalë"
+    },
+    {
+      "t": "Bletë"
+    },
+    {
+      "t": "Grerëz"
+    },
+    {
+      "t": "Milingonë"
+    },
+    {
+      "t": "Flutur"
+    },
+    {
+      "t": "Merimangë"
+    },
+    {
+      "t": "Akrep"
+    },
+    {
+      "t": "Mollëkuqe"
+    },
+    {
+      "t": "Karkalec"
+    },
+    {
+      "t": "Pilivesa"
+    },
+    {
+      "t": "Mushkonjë"
+    },
+    {
+      "t": "Kërmill"
+    },
+    {
+      "t": "Krimb"
+    },
+    {
+      "t": "Mace"
+    },
+    {
+      "t": "Qen"
+    },
+    {
+      "t": "Hamster"
+    },
+    {
+      "t": "Peshk"
+    },
+    {
+      "t": "Zog"
+    },
+    {
+      "t": "Miush"
+    },
+    {
+      "t": "Buall"
+    },
+    {
+      "t": "Rrëqebull"
+    },
+    {
+      "t": "Baldosë"
+    },
+    {
+      "t": "Nuselalë"
+    },
+    {
+      "t": "Çakall"
+    },
+    {
+      "t": "Ariu i murrmë"
+    },
+    {
+      "t": "Kaproll"
+    },
+    {
+      "t": "Cjap"
+    },
+    {
+      "t": "Mëz"
+    },
+    {
+      "t": "Këlysh"
+    },
+    {
+      "t": "Zogth"
+    },
+    {
+      "t": "Dhi e egër"
+    }
+  ]
+}

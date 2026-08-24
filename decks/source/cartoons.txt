@@ -1,0 +1,105 @@
+name: Cartoons
+lang: en
+category: Screen
+emoji: 🧸
+---
+SpongeBob SquarePants
+Tom and Jerry
+Scooby-Doo
+Looney Tunes
+Bugs Bunny
+Mickey Mouse
+Donald Duck
+Goofy
+Popeye
+The Flintstones
+The Jetsons
+Pink Panther
+Road Runner
+Wile E. Coyote
+Woody Woodpecker
+Dexter's Laboratory
+The Powerpuff Girls
+Johnny Bravo
+Courage the Cowardly Dog
+Ed, Edd n Eddy
+Adventure Time
+Regular Show
+Gravity Falls
+Phineas and Ferb
+Kim Possible
+Recess
+Hey Arnold!
+Rugrats
+The Wild Thornberrys
+Danny Phantom
+Avatar: The Last Airbender
+Teen Titans
+Ben 10
+Samurai Jack
+Steven Universe
+The Amazing World of Gumball
+Pokémon
+Digimon
+Dragon Ball Z
+Naruto
+One Piece
+Sailor Moon
+Studio Ghibli
+My Neighbour Totoro
+Howl's Moving Castle
+Toy Story
+Finding Nemo
+Monsters, Inc.
+The Incredibles
+Up
+Inside Out
+Coco
+Moana
+Frozen
+Tangled
+Encanto
+Zootopia
+Big Hero 6
+Wreck-It Ralph
+The Lion King
+Aladdin
+Beauty and the Beast
+The Little Mermaid
+Cinderella
+Snow White
+Sleeping Beauty
+Peter Pan
+Pinocchio
+Bambi
+Dumbo
+101 Dalmatians
+The Jungle Book
+Mulan
+Hercules
+Tarzan
+Lilo & Stitch
+Shrek
+Madagascar
+Kung Fu Panda
+How to Train Your Dragon
+Despicable Me
+Minions
+The Croods
+Rio
+Ice Age
+Happy Feet
+Chicken Run
+Wallace & Gromit
+Paw Patrol
+Peppa Pig
+Teletubbies
+Thomas the Tank Engine
+Postman Pat
+Winnie the Pooh
+Paddington
+The Smurfs
+Asterix
+Tintin
+Garfield
+Snoopy

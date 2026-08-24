@@ -1,0 +1,103 @@
+name: Profesione
+lang: sq
+category: Përditshme
+emoji: 🧑‍🔧
+---
+Mjek
+Infermier
+Dentist
+Farmacist
+Veteriner
+Zjarrfikës
+Polic
+Ushtar
+Mësues
+Profesor
+Bibliotekar
+Shkencëtar
+Inxhinier
+Arkitekt
+Muratar
+Hidraulik
+Elektricist
+Marangoz
+Bojaxhi
+Mekanik
+Saldator
+Fermer
+Peshkatar
+Kopshtar
+Kuzhinier
+Furrtar
+Kasap
+Kamarier
+Banakier
+Pastrues
+Parukier
+Berber
+Rrobaqepës
+Këpucar
+Argjendar
+Fotograf
+Gazetar
+Prezantues
+Aktor
+Komedian
+Këngëtar
+Muzikant
+Dirigjent
+Valltar
+Piktor
+Skulptor
+Shkrimtar
+Poet
+Përkthyes
+Avokat
+Gjyqtar
+Kontabilist
+Bankier
+Agjent imobiliar
+Shitës
+Arkëtar
+Recepsionist
+Sekretar
+Menaxher
+Programues
+Dizajner
+Pilot
+Stjuardesë
+Shofer autobusi
+Taksist
+Kamionist
+Marinar
+Astronaut
+Postier
+Roje
+Detektiv
+Spiun
+Arbitër
+Trajner
+Psikolog
+Punonjës social
+Prift
+Politikan
+Ambasador
+Arkeolog
+Gjeolog
+Meteorolog
+Bletar
+Minator
+Farkëtar
+Magjistar
+Kloun
+Model
+Florist
+Barinj
+Rojtar plazhi
+Ndërtues
+Elektronist
+Nëpunës
+Studente
+Ushtarak
+Doktoreshë
+Mësuese kopshti

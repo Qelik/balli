@@ -1,0 +1,108 @@
+name: Ushqime dhe pije
+lang: sq
+category: Përditshme
+emoji: 🍲
+---
+Bukë
+Djathë
+Gjalpë
+Qumësht
+Kos
+Vezë
+Mish
+Mish pule
+Peshk
+Sallam
+Suxhuk
+Proshutë
+Byrek
+Petulla
+Flia
+Tavë kosi
+Fërgesë
+Qofte
+Speca të mbushur
+Japrak
+Pite
+Baklava
+Trileçe
+Revani
+Sheqerpare
+Kadaif
+Ballokume
+Krem karamel
+Domate
+Kastravec
+Spec
+Patate
+Qepë
+Hudhër
+Karotë
+Lakër
+Spinaq
+Bizele
+Fasule
+Patëllxhan
+Kungull
+Kërpudha
+Marule
+Majdanoz
+Panxhar
+Mollë
+Dardhë
+Portokall
+Limon
+Rrush
+Luleshtrydhe
+Pjeshkë
+Kumbull
+Qershi
+Fik
+Shalqi
+Pjepër
+Banane
+Ananas
+Arrë
+Lajthi
+Bajame
+Gështenjë
+Ujë
+Çaj
+Kafe
+Kafe turke
+Lëng portokalli
+Limonadë
+Birrë
+Verë
+Raki
+Boza
+Dhallë
+Shampanjë
+Oriz
+Makarona
+Pica
+Hamburger
+Sallatë
+Supë
+Turshi
+Vaj ulliri
+Ullinj
+Kripë
+Piper
+Sheqer
+Mjaltë
+Reçel
+Çokollatë
+Akullore
+Tortë
+Biskota
+Kikirikë
+Kokoshka
+Patatina
+Salcë kosi
+Miell
+Bukë misri
+Speca djegës
+Mish qengji
+Tarator
+Pilaf

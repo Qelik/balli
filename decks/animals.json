@@ -1,0 +1,345 @@
+{
+  "id": "animals",
+  "name": "Animals",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "b7d10fec",
+  "cards": [
+    {
+      "t": "Elephant"
+    },
+    {
+      "t": "Giraffe"
+    },
+    {
+      "t": "Penguin"
+    },
+    {
+      "t": "Kangaroo"
+    },
+    {
+      "t": "Crocodile"
+    },
+    {
+      "t": "Hippopotamus"
+    },
+    {
+      "t": "Rhinoceros"
+    },
+    {
+      "t": "Cheetah"
+    },
+    {
+      "t": "Leopard"
+    },
+    {
+      "t": "Tiger"
+    },
+    {
+      "t": "Lion"
+    },
+    {
+      "t": "Panda"
+    },
+    {
+      "t": "Polar bear"
+    },
+    {
+      "t": "Grizzly bear"
+    },
+    {
+      "t": "Koala"
+    },
+    {
+      "t": "Sloth"
+    },
+    {
+      "t": "Monkey"
+    },
+    {
+      "t": "Gorilla"
+    },
+    {
+      "t": "Chimpanzee"
+    },
+    {
+      "t": "Orangutan"
+    },
+    {
+      "t": "Zebra"
+    },
+    {
+      "t": "Camel"
+    },
+    {
+      "t": "Llama"
+    },
+    {
+      "t": "Donkey"
+    },
+    {
+      "t": "Horse"
+    },
+    {
+      "t": "Cow"
+    },
+    {
+      "t": "Sheep"
+    },
+    {
+      "t": "Goat"
+    },
+    {
+      "t": "Pig"
+    },
+    {
+      "t": "Chicken"
+    },
+    {
+      "t": "Rooster"
+    },
+    {
+      "t": "Duck"
+    },
+    {
+      "t": "Goose"
+    },
+    {
+      "t": "Turkey"
+    },
+    {
+      "t": "Peacock"
+    },
+    {
+      "t": "Ostrich"
+    },
+    {
+      "t": "Flamingo"
+    },
+    {
+      "t": "Pelican"
+    },
+    {
+      "t": "Seagull"
+    },
+    {
+      "t": "Eagle"
+    },
+    {
+      "t": "Owl"
+    },
+    {
+      "t": "Parrot"
+    },
+    {
+      "t": "Woodpecker"
+    },
+    {
+      "t": "Hummingbird"
+    },
+    {
+      "t": "Swan"
+    },
+    {
+      "t": "Crow"
+    },
+    {
+      "t": "Pigeon"
+    },
+    {
+      "t": "Bat"
+    },
+    {
+      "t": "Mouse"
+    },
+    {
+      "t": "Rat"
+    },
+    {
+      "t": "Squirrel"
+    },
+    {
+      "t": "Hedgehog"
+    },
+    {
+      "t": "Rabbit"
+    },
+    {
+      "t": "Fox"
+    },
+    {
+      "t": "Wolf"
+    },
+    {
+      "t": "Deer"
+    },
+    {
+      "t": "Moose"
+    },
+    {
+      "t": "Bison"
+    },
+    {
+      "t": "Badger"
+    },
+    {
+      "t": "Otter"
+    },
+    {
+      "t": "Beaver"
+    },
+    {
+      "t": "Raccoon"
+    },
+    {
+      "t": "Skunk"
+    },
+    {
+      "t": "Snake"
+    },
+    {
+      "t": "Lizard"
+    },
+    {
+      "t": "Chameleon"
+    },
+    {
+      "t": "Iguana"
+    },
+    {
+      "t": "Turtle"
+    },
+    {
+      "t": "Tortoise"
+    },
+    {
+      "t": "Frog"
+    },
+    {
+      "t": "Toad"
+    },
+    {
+      "t": "Salamander"
+    },
+    {
+      "t": "Shark"
+    },
+    {
+      "t": "Whale"
+    },
+    {
+      "t": "Dolphin"
+    },
+    {
+      "t": "Octopus"
+    },
+    {
+      "t": "Squid"
+    },
+    {
+      "t": "Jellyfish"
+    },
+    {
+      "t": "Starfish"
+    },
+    {
+      "t": "Crab"
+    },
+    {
+      "t": "Lobster"
+    },
+    {
+      "t": "Shrimp"
+    },
+    {
+      "t": "Seahorse"
+    },
+    {
+      "t": "Stingray"
+    },
+    {
+      "t": "Swordfish"
+    },
+    {
+      "t": "Salmon"
+    },
+    {
+      "t": "Eel"
+    },
+    {
+      "t": "Bee"
+    },
+    {
+      "t": "Wasp"
+    },
+    {
+      "t": "Ant"
+    },
+    {
+      "t": "Butterfly"
+    },
+    {
+      "t": "Moth"
+    },
+    {
+      "t": "Spider"
+    },
+    {
+      "t": "Scorpion"
+    },
+    {
+      "t": "Ladybird"
+    },
+    {
+      "t": "Grasshopper"
+    },
+    {
+      "t": "Cricket"
+    },
+    {
+      "t": "Dragonfly"
+    },
+    {
+      "t": "Mosquito"
+    },
+    {
+      "t": "Snail"
+    },
+    {
+      "t": "Worm"
+    },
+    {
+      "t": "Cat"
+    },
+    {
+      "t": "Dog"
+    },
+    {
+      "t": "Hamster"
+    },
+    {
+      "t": "Ferret"
+    },
+    {
+      "t": "Meerkat"
+    },
+    {
+      "t": "Armadillo"
+    },
+    {
+      "t": "Anteater"
+    },
+    {
+      "t": "Porcupine"
+    },
+    {
+      "t": "Walrus"
+    },
+    {
+      "t": "Seal"
+    },
+    {
+      "t": "Platypus"
+    }
+  ]
+}

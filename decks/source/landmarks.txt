@@ -1,0 +1,109 @@
+name: Landmarks
+lang: en
+category: World
+emoji: 🗼
+---
+Eiffel Tower
+Big Ben
+Tower Bridge
+Buckingham Palace
+Stonehenge
+Colosseum
+Leaning Tower of Pisa
+Trevi Fountain
+Vatican City
+Sistine Chapel
+Sagrada Família
+Alhambra
+Acropolis
+Parthenon
+Brandenburg Gate
+Neuschwanstein Castle
+Little Mermaid statue
+Atomium
+Windmills of Kinderdijk
+Northern Lights
+Blue Lagoon
+Loch Ness
+Cliffs of Moher
+Mont Saint-Michel
+Louvre
+Arc de Triomphe
+Notre-Dame
+Palace of Versailles
+Matterhorn
+Mount Etna
+Santorini
+Meteora
+Blue Eye of Albania | spring, Sarandë
+Rozafa Castle | Shkodër
+Berat old town
+Gjirokastër castle
+Ohrid Lake
+Dubrovnik old town
+Plitvice Lakes
+Bran Castle
+Red Square
+Saint Basil's Cathedral
+Hermitage Museum
+Hagia Sophia
+Blue Mosque
+Cappadocia
+Pamukkale
+Petra
+Dead Sea
+Pyramids of Giza
+Great Sphinx
+Valley of the Kings
+Sahara Desert
+Mount Kilimanjaro
+Serengeti
+Victoria Falls
+Table Mountain
+Marrakesh souk
+Burj Khalifa
+Palm Jumeirah
+Taj Mahal
+Ganges River
+Mount Everest
+Great Wall of China
+Forbidden City
+Terracotta Army
+Mount Fuji
+Tokyo Tower
+Shibuya Crossing
+Angkor Wat
+Halong Bay
+Petronas Towers
+Marina Bay Sands
+Bali rice terraces
+Sydney Opera House
+Sydney Harbour Bridge
+Uluru
+Great Barrier Reef
+Milford Sound
+Statue of Liberty
+Empire State Building
+Times Square
+Brooklyn Bridge
+Golden Gate Bridge
+Hollywood sign
+Mount Rushmore
+Grand Canyon
+Yellowstone
+Niagara Falls
+White House
+Las Vegas Strip
+Route 66
+CN Tower
+Chichén Itzá
+Machu Picchu
+Christ the Redeemer
+Iguazu Falls
+Amazon rainforest
+Salar de Uyuni
+Easter Island
+Galápagos Islands
+Panama Canal
+Antarctica
+North Pole

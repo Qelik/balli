@@ -1,0 +1,18 @@
+{
+  "name": "balli",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Forehead party game. Phase 1: one deck, timer, tilt, bag shuffle.",
+  "type": "module",
+  "scripts": {
+    "decks": "node scripts/build-decks.mjs",
+    "build": "npm run decks && tsc",
+    "watch": "tsc --watch",
+    "check": "tsc --noEmit",
+    "serve": "node scripts/serve.js",
+    "test": "npm run build && node --test scripts/test.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}

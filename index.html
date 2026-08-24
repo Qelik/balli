@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Balli</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no"
+    />
+    <meta name="theme-color" content="#10131a" />
+    <meta name="description" content="Forehead party game. Hold it up, tilt down to score, tilt up to pass." />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main id="app">
+      <!-- ── Home ───────────────────────────────────────────────────── -->
+      <section class="screen is-active" id="screen-home" aria-labelledby="home-title">
+        <header class="home-head">
+          <h1 id="home-title" class="wordmark">Balli</h1>
+          <p class="deck-count" id="deck-count">Loading decks…</p>
+        </header>
+
+        <div class="deck-grid" id="deck-grid"></div>
+
+        <div class="home-bar">
+          <div class="home-bar-options">
+            <div class="segmented" id="length-group" role="radiogroup" aria-label="Round length">
+              <button type="button" role="radio" aria-checked="false" data-seconds="30">30s</button>
+              <button type="button" role="radio" aria-checked="true" data-seconds="60">60s</button>
+              <button type="button" role="radio" aria-checked="false" data-seconds="90">90s</button>
+            </div>
+            <label class="toggle">
+              <input type="checkbox" id="sound-toggle" checked />
+              <span>Sound</span>
+            </label>
+            <button class="link-button" id="reset-deck" type="button">Reset deck</button>
+          </div>
+          <button class="primary-button" id="start-button" type="button">Start round</button>
+        </div>
+        <p class="hint" id="home-hint"></p>
+      </section>
+
+      <!-- ── Pre-round: permission, calibration, countdown ───────────── -->
+      <section class="screen" id="screen-preround" aria-labelledby="preround-title">
+        <h2 id="preround-title" class="preround-title">Hold it to your forehead</h2>
+        <p class="preround-body" id="preround-body">Screen facing the room.</p>
+        <div class="meter" aria-hidden="true"><div class="meter-fill" id="calib-meter"></div></div>
+        <p class="countdown" id="countdown" aria-live="assertive"></p>
+        <button class="link-button" id="preround-cancel" type="button">Cancel</button>
+      </section>
+
+      <!-- ── Round ──────────────────────────────────────────────────── -->
+      <section class="screen" id="screen-round" aria-labelledby="card-word">
+        <div class="round-bar">
+          <div class="round-bar-fill" id="timer-fill"></div>
+        </div>
+        <div class="round-top">
+          <span class="round-clock" id="round-clock">60</span>
+          <span class="round-score" id="round-score">0</span>
+        </div>
+        <div class="card-stage" id="card-stage">
+          <div class="card-word" id="card-word" aria-live="polite">—</div>
+        </div>
+        <p class="card-hint" id="card-hint"></p>
+        <div class="tap-zones" id="tap-zones" hidden>
+          <button type="button" class="tap-zone tap-pass" id="tap-pass">Pass</button>
+          <button type="button" class="tap-zone tap-correct" id="tap-correct">Got it</button>
+        </div>
+        <div class="flash" id="flash" aria-hidden="true">
+          <span class="flash-icon" id="flash-icon"></span>
+          <span class="flash-label" id="flash-label"></span>
+        </div>
+      </section>
+
+      <!-- ── Recap ──────────────────────────────────────────────────── -->
+      <section class="screen" id="screen-recap" aria-labelledby="recap-title">
+        <h2 id="recap-title" class="recap-title"><span id="recap-score">0</span> correct</h2>
+        <p class="recap-sub" id="recap-sub">Tap any card to fix a miscount.</p>
+        <ul class="recap-list" id="recap-list"></ul>
+        <div class="recap-actions">
+          <button class="primary-button" id="again-button" type="button">Play again</button>
+          <button class="link-button" id="home-button" type="button">Home</button>
+        </div>
+      </section>
+    </main>
+
+    <div class="rotate-overlay" id="rotate-overlay" hidden>
+      <p>Turn the phone sideways</p>
+    </div>
+
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>

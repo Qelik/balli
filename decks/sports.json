@@ -1,0 +1,345 @@
+{
+  "id": "sports",
+  "name": "Sports",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "2a987eeb",
+  "cards": [
+    {
+      "t": "Football"
+    },
+    {
+      "t": "Basketball"
+    },
+    {
+      "t": "Tennis"
+    },
+    {
+      "t": "Volleyball"
+    },
+    {
+      "t": "Handball"
+    },
+    {
+      "t": "Rugby"
+    },
+    {
+      "t": "Cricket"
+    },
+    {
+      "t": "Baseball"
+    },
+    {
+      "t": "American football"
+    },
+    {
+      "t": "Ice hockey"
+    },
+    {
+      "t": "Field hockey"
+    },
+    {
+      "t": "Golf"
+    },
+    {
+      "t": "Badminton"
+    },
+    {
+      "t": "Table tennis"
+    },
+    {
+      "t": "Squash"
+    },
+    {
+      "t": "Bowling"
+    },
+    {
+      "t": "Snooker"
+    },
+    {
+      "t": "Darts"
+    },
+    {
+      "t": "Boxing"
+    },
+    {
+      "t": "Wrestling"
+    },
+    {
+      "t": "Judo"
+    },
+    {
+      "t": "Karate"
+    },
+    {
+      "t": "Taekwondo"
+    },
+    {
+      "t": "Kickboxing"
+    },
+    {
+      "t": "Fencing"
+    },
+    {
+      "t": "Weightlifting"
+    },
+    {
+      "t": "Gymnastics"
+    },
+    {
+      "t": "Athletics"
+    },
+    {
+      "t": "Marathon"
+    },
+    {
+      "t": "Sprinting"
+    },
+    {
+      "t": "High jump"
+    },
+    {
+      "t": "Long jump"
+    },
+    {
+      "t": "Pole vault"
+    },
+    {
+      "t": "Shot put"
+    },
+    {
+      "t": "Javelin"
+    },
+    {
+      "t": "Discus"
+    },
+    {
+      "t": "Hurdles"
+    },
+    {
+      "t": "Swimming"
+    },
+    {
+      "t": "Diving"
+    },
+    {
+      "t": "Water polo"
+    },
+    {
+      "t": "Surfing"
+    },
+    {
+      "t": "Sailing"
+    },
+    {
+      "t": "Rowing"
+    },
+    {
+      "t": "Canoeing"
+    },
+    {
+      "t": "Windsurfing"
+    },
+    {
+      "t": "Skiing"
+    },
+    {
+      "t": "Snowboarding"
+    },
+    {
+      "t": "Ice skating"
+    },
+    {
+      "t": "Figure skating"
+    },
+    {
+      "t": "Curling"
+    },
+    {
+      "t": "Bobsleigh"
+    },
+    {
+      "t": "Ski jumping"
+    },
+    {
+      "t": "Cycling"
+    },
+    {
+      "t": "Mountain biking"
+    },
+    {
+      "t": "BMX"
+    },
+    {
+      "t": "Motorcycle racing"
+    },
+    {
+      "t": "Formula 1"
+    },
+    {
+      "t": "Rally driving"
+    },
+    {
+      "t": "Horse riding"
+    },
+    {
+      "t": "Show jumping"
+    },
+    {
+      "t": "Archery"
+    },
+    {
+      "t": "Shooting"
+    },
+    {
+      "t": "Climbing"
+    },
+    {
+      "t": "Bouldering"
+    },
+    {
+      "t": "Skateboarding"
+    },
+    {
+      "t": "Rollerblading"
+    },
+    {
+      "t": "Parkour"
+    },
+    {
+      "t": "Trampolining"
+    },
+    {
+      "t": "Yoga"
+    },
+    {
+      "t": "Pilates"
+    },
+    {
+      "t": "Chess"
+    },
+    {
+      "t": "Poker"
+    },
+    {
+      "t": "Esports"
+    },
+    {
+      "t": "Cristiano Ronaldo"
+    },
+    {
+      "t": "Lionel Messi"
+    },
+    {
+      "t": "Neymar"
+    },
+    {
+      "t": "Kylian Mbappé"
+    },
+    {
+      "t": "Erling Haaland"
+    },
+    {
+      "t": "Mohamed Salah"
+    },
+    {
+      "t": "Zinedine Zidane"
+    },
+    {
+      "t": "David Beckham"
+    },
+    {
+      "t": "Ronaldinho"
+    },
+    {
+      "t": "Diego Maradona"
+    },
+    {
+      "t": "Pelé"
+    },
+    {
+      "t": "Lorik Cana"
+    },
+    {
+      "t": "Granit Xhaka"
+    },
+    {
+      "t": "Xherdan Shaqiri"
+    },
+    {
+      "t": "Michael Jordan"
+    },
+    {
+      "t": "LeBron James"
+    },
+    {
+      "t": "Kobe Bryant"
+    },
+    {
+      "t": "Stephen Curry"
+    },
+    {
+      "t": "Shaquille O'Neal"
+    },
+    {
+      "t": "Serena Williams"
+    },
+    {
+      "t": "Roger Federer"
+    },
+    {
+      "t": "Rafael Nadal"
+    },
+    {
+      "t": "Novak Djokovic"
+    },
+    {
+      "t": "Maria Sharapova"
+    },
+    {
+      "t": "Usain Bolt"
+    },
+    {
+      "t": "Michael Phelps"
+    },
+    {
+      "t": "Simone Biles"
+    },
+    {
+      "t": "Muhammad Ali"
+    },
+    {
+      "t": "Mike Tyson"
+    },
+    {
+      "t": "Floyd Mayweather"
+    },
+    {
+      "t": "Conor McGregor"
+    },
+    {
+      "t": "Tiger Woods"
+    },
+    {
+      "t": "Lewis Hamilton"
+    },
+    {
+      "t": "Michael Schumacher"
+    },
+    {
+      "t": "Ayrton Senna"
+    },
+    {
+      "t": "Wayne Gretzky"
+    },
+    {
+      "t": "Tom Brady"
+    },
+    {
+      "t": "Babe Ruth"
+    },
+    {
+      "t": "Nadia Comăneci"
+    }
+  ]
+}

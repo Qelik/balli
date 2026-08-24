@@ -1,0 +1,609 @@
+:root {
+  --bg: #10131a;
+  --bg-raised: #191d27;
+  --line: #2a3040;
+  --text: #f2f5fb;
+  --muted: #98a2b8;
+  --accent: #6c8cff;
+  --correct: #2fbf71;
+  --pass: #f0a202;
+  --radius: 14px;
+  --pad: max(16px, env(safe-area-inset-left)) max(16px, env(safe-area-inset-right));
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overscroll-behavior: none;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif;
+  font-size: 17px;
+  line-height: 1.4;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+#app {
+  height: 100%;
+  position: relative;
+}
+
+.screen {
+  display: none;
+  height: 100%;
+  padding: max(18px, env(safe-area-inset-top)) max(18px, env(safe-area-inset-right))
+    max(18px, env(safe-area-inset-bottom)) max(18px, env(safe-area-inset-left));
+  overflow-y: auto;
+}
+
+.screen.is-active {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* ── Home ─────────────────────────────────────────────────────────── */
+
+#screen-home.is-active {
+  gap: 10px;
+}
+
+.home-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  flex: none;
+}
+
+.wordmark {
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.deck-count {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+/* The deck list is the only thing on this screen that scrolls. */
+.deck-grid {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.lang-heading {
+  margin: 14px 0 2px;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.lang-heading:first-child {
+  margin-top: 0;
+}
+
+.category-heading {
+  margin: 10px 0 6px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.deck-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(132px, 1fr));
+  gap: 8px;
+}
+
+.deck-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 10px;
+  font: inherit;
+  text-align: left;
+  color: var(--text);
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.deck-tile[aria-pressed="true"] {
+  border-color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+
+.deck-tile-emoji {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.deck-tile-name {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.deck-tile-meta {
+  color: var(--muted);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+}
+
+.deck-tile .deck-progress {
+  height: 3px;
+}
+
+.deck-progress {
+  height: 6px;
+  background: #232a38;
+  border-radius: 99px;
+  overflow: hidden;
+}
+
+.deck-progress-fill {
+  height: 100%;
+  width: 0;
+  background: var(--accent);
+}
+
+.home-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: none;
+}
+
+.home-bar-options {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.segmented {
+  display: flex;
+  gap: 6px;
+  flex: 1 1 auto;
+}
+
+.segmented button {
+  flex: 1;
+  padding: 10px 0;
+  font: inherit;
+  font-weight: 600;
+  color: var(--text);
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.segmented button[aria-checked="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #0b0e14;
+}
+
+.toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 14px;
+  flex: none;
+}
+
+.toggle input {
+  width: 20px;
+  height: 20px;
+  accent-color: var(--accent);
+}
+
+.primary-button {
+  padding: 15px;
+  font: inherit;
+  font-size: 18px;
+  font-weight: 700;
+  color: #0b0e14;
+  background: var(--accent);
+  border: 0;
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.primary-button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.primary-button:active {
+  transform: translateY(1px);
+}
+
+.link-button {
+  background: none;
+  border: 0;
+  padding: 8px 0;
+  color: var(--muted);
+  font: inherit;
+  font-size: 14px;
+  text-decoration: underline;
+  cursor: pointer;
+  flex: none;
+}
+
+.hint {
+  margin: 0;
+  text-align: center;
+  color: var(--muted);
+  font-size: 13px;
+  min-height: 1.2em;
+  flex: none;
+}
+
+/* ── Pre-round ────────────────────────────────────────────────────── */
+
+#screen-preround.is-active {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.preround-title {
+  font-size: clamp(24px, 6vw, 34px);
+  margin: 0;
+}
+
+.preround-body {
+  margin: 0;
+  color: var(--muted);
+  max-width: 30ch;
+}
+
+.meter {
+  width: min(320px, 70vw);
+  height: 8px;
+  background: #232a38;
+  border-radius: 99px;
+  overflow: hidden;
+}
+
+.meter-fill {
+  height: 100%;
+  width: 0;
+  background: var(--accent);
+}
+
+.countdown {
+  margin: 0;
+  font-size: clamp(48px, 16vw, 96px);
+  font-weight: 800;
+  line-height: 1;
+  min-height: 1em;
+}
+
+/* ── Round ────────────────────────────────────────────────────────── */
+
+#screen-round.is-active {
+  gap: 8px;
+  padding-top: max(10px, env(safe-area-inset-top));
+}
+
+.round-bar {
+  height: 8px;
+  background: #232a38;
+  border-radius: 99px;
+  overflow: hidden;
+  flex: none;
+}
+
+.round-bar-fill {
+  height: 100%;
+  width: 100%;
+  background: var(--accent);
+}
+
+.round-bar-fill.is-urgent {
+  background: var(--pass);
+}
+
+.round-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  flex: none;
+}
+
+.round-clock {
+  font-size: 22px;
+}
+
+.round-score {
+  font-size: 22px;
+  color: var(--text);
+}
+
+.card-stage {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.card-word {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  text-align: center;
+  line-height: 1.02;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.card-hint {
+  margin: 0;
+  text-align: center;
+  color: var(--muted);
+  font-size: 15px;
+  min-height: 1.2em;
+  flex: none;
+}
+
+.tap-zones {
+  display: flex;
+  gap: 10px;
+  flex: none;
+}
+
+.tap-zone {
+  flex: 1;
+  padding: 16px 0;
+  font: inherit;
+  font-weight: 700;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--bg-raised);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.tap-correct {
+  border-color: var(--correct);
+  color: var(--correct);
+}
+
+.tap-pass {
+  border-color: var(--pass);
+  color: var(--pass);
+}
+
+/*
+ * Full-screen result flash. One flash per action, ~420ms — nowhere near the 3Hz
+ * photosensitivity threshold. Colour never carries the meaning alone: every
+ * flash also shows an icon and a word, and plays its own sound.
+ */
+.flash {
+  position: absolute;
+  inset: 0;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: #0b0e14;
+  font-weight: 800;
+  pointer-events: none;
+}
+
+.flash.is-visible {
+  display: flex;
+}
+
+.flash.is-correct {
+  background: var(--correct);
+}
+
+.flash.is-pass {
+  background: var(--pass);
+}
+
+.flash-icon {
+  font-size: clamp(56px, 18vw, 120px);
+  line-height: 1;
+}
+
+.flash-label {
+  font-size: clamp(20px, 6vw, 36px);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* ── Recap ────────────────────────────────────────────────────────── */
+
+.recap-title {
+  margin: 0;
+  font-size: clamp(26px, 7vw, 38px);
+}
+
+.recap-sub {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.recap-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.recap-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 12px 14px;
+  font: inherit;
+  text-align: left;
+  color: var(--text);
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-left-width: 4px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.recap-item[data-outcome="got"] {
+  border-left-color: var(--correct);
+}
+
+.recap-item[data-outcome="missed"] {
+  border-left-color: var(--pass);
+  color: var(--muted);
+}
+
+.recap-mark {
+  font-size: 18px;
+  width: 1.2em;
+  text-align: center;
+  flex: none;
+}
+
+.recap-item[data-outcome="got"] .recap-mark {
+  color: var(--correct);
+}
+
+.recap-item[data-outcome="missed"] .recap-mark {
+  color: var(--pass);
+}
+
+.recap-text {
+  flex: 1;
+  font-weight: 600;
+}
+
+.recap-time {
+  color: var(--muted);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+
+.recap-empty {
+  color: var(--muted);
+  text-align: center;
+  padding: 24px 0;
+}
+
+.recap-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: none;
+}
+
+.recap-actions .primary-button {
+  margin-top: 0;
+}
+
+/* ── Rotate nag ───────────────────────────────────────────────────── */
+
+.rotate-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 700;
+  z-index: 10;
+}
+
+.rotate-overlay[hidden] {
+  display: none;
+}
+
+/*
+ * Landscape: the round is designed for it, so the menus have to fit a ~390px
+ * tall viewport. Only the deck list scrolls; the bar stays put.
+ */
+@media (orientation: landscape) and (max-height: 460px) {
+  .screen.is-active {
+    gap: 8px;
+  }
+
+  .wordmark {
+    font-size: 22px;
+  }
+
+  .home-bar {
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .home-bar-options {
+    flex: 1 1 auto;
+  }
+
+  .home-bar .primary-button {
+    flex: 0 0 auto;
+    min-width: 220px;
+    padding: 12px 20px;
+    font-size: 17px;
+  }
+
+  .deck-row {
+    grid-template-columns: repeat(auto-fill, minmax(124px, 1fr));
+  }
+
+  .recap-sub {
+    font-size: 12px;
+  }
+
+  .recap-title {
+    font-size: 24px;
+  }
+
+  .recap-item {
+    padding: 9px 12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}

@@ -1,0 +1,106 @@
+name: TV Shows
+lang: en
+category: Screen
+emoji: 📺
+---
+Friends
+Breaking Bad
+Game of Thrones
+The Office
+Stranger Things
+The Simpsons
+Sherlock
+Peaky Blinders
+The Crown
+Black Mirror
+Doctor Who
+Lost
+The Walking Dead
+Prison Break
+Money Heist
+Squid Game
+The Sopranos
+The Wire
+Sex and the City
+How I Met Your Mother
+The Big Bang Theory
+Modern Family
+Brooklyn Nine-Nine
+Parks and Recreation
+Seinfeld
+Better Call Saul
+Dexter
+House
+Grey's Anatomy
+ER
+Scrubs
+Suits
+Mad Men
+Downton Abbey
+Chernobyl
+Band of Brothers
+Vikings
+The Mandalorian
+Westworld
+True Detective
+Fargo
+Narcos
+Ozark
+The Boys
+The Last of Us
+Succession
+Ted Lasso
+The Witcher
+Rick and Morty
+South Park
+Family Guy
+Futurama
+Bob's Burgers
+Top Gear
+MasterChef
+The Great British Bake Off
+Big Brother
+Love Island
+The Voice
+Britain's Got Talent
+Strictly Come Dancing
+Dancing with the Stars
+Deal or No Deal
+Who Wants to Be a Millionaire
+Jeopardy!
+The Apprentice
+Shark Tank
+Dragons' Den
+Planet Earth
+Blue Planet
+MythBusters
+Black Books
+The IT Crowd
+Fawlty Towers
+Only Fools and Horses
+Mr. Bean
+Blackadder
+The Inbetweeners
+Skins
+Misfits
+Line of Duty
+Broadchurch
+Luther
+Killing Eve
+Bodyguard
+Happy Valley
+The Queen's Gambit
+Bridgerton
+Emily in Paris
+Gossip Girl
+One Tree Hill
+Buffy the Vampire Slayer
+Twin Peaks
+The X-Files
+Star Trek
+Battlestar Galactica
+Firefly
+Community
+Arrested Development
+30 Rock
+Curb Your Enthusiasm

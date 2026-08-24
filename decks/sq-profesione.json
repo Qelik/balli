@@ -1,0 +1,303 @@
+{
+  "id": "sq-profesione",
+  "name": "Profesione",
+  "lang": "sq",
+  "source": "handwritten",
+  "version": "5d1e5b1c",
+  "cards": [
+    {
+      "t": "Mjek"
+    },
+    {
+      "t": "Infermier"
+    },
+    {
+      "t": "Dentist"
+    },
+    {
+      "t": "Farmacist"
+    },
+    {
+      "t": "Veteriner"
+    },
+    {
+      "t": "Zjarrfikës"
+    },
+    {
+      "t": "Polic"
+    },
+    {
+      "t": "Ushtar"
+    },
+    {
+      "t": "Mësues"
+    },
+    {
+      "t": "Profesor"
+    },
+    {
+      "t": "Bibliotekar"
+    },
+    {
+      "t": "Shkencëtar"
+    },
+    {
+      "t": "Inxhinier"
+    },
+    {
+      "t": "Arkitekt"
+    },
+    {
+      "t": "Muratar"
+    },
+    {
+      "t": "Hidraulik"
+    },
+    {
+      "t": "Elektricist"
+    },
+    {
+      "t": "Marangoz"
+    },
+    {
+      "t": "Bojaxhi"
+    },
+    {
+      "t": "Mekanik"
+    },
+    {
+      "t": "Saldator"
+    },
+    {
+      "t": "Fermer"
+    },
+    {
+      "t": "Peshkatar"
+    },
+    {
+      "t": "Kopshtar"
+    },
+    {
+      "t": "Kuzhinier"
+    },
+    {
+      "t": "Furrtar"
+    },
+    {
+      "t": "Kasap"
+    },
+    {
+      "t": "Kamarier"
+    },
+    {
+      "t": "Banakier"
+    },
+    {
+      "t": "Pastrues"
+    },
+    {
+      "t": "Parukier"
+    },
+    {
+      "t": "Berber"
+    },
+    {
+      "t": "Rrobaqepës"
+    },
+    {
+      "t": "Këpucar"
+    },
+    {
+      "t": "Argjendar"
+    },
+    {
+      "t": "Fotograf"
+    },
+    {
+      "t": "Gazetar"
+    },
+    {
+      "t": "Prezantues"
+    },
+    {
+      "t": "Aktor"
+    },
+    {
+      "t": "Komedian"
+    },
+    {
+      "t": "Këngëtar"
+    },
+    {
+      "t": "Muzikant"
+    },
+    {
+      "t": "Dirigjent"
+    },
+    {
+      "t": "Valltar"
+    },
+    {
+      "t": "Piktor"
+    },
+    {
+      "t": "Skulptor"
+    },
+    {
+      "t": "Shkrimtar"
+    },
+    {
+      "t": "Poet"
+    },
+    {
+      "t": "Përkthyes"
+    },
+    {
+      "t": "Avokat"
+    },
+    {
+      "t": "Gjyqtar"
+    },
+    {
+      "t": "Kontabilist"
+    },
+    {
+      "t": "Bankier"
+    },
+    {
+      "t": "Agjent imobiliar"
+    },
+    {
+      "t": "Shitës"
+    },
+    {
+      "t": "Arkëtar"
+    },
+    {
+      "t": "Recepsionist"
+    },
+    {
+      "t": "Sekretar"
+    },
+    {
+      "t": "Menaxher"
+    },
+    {
+      "t": "Programues"
+    },
+    {
+      "t": "Dizajner"
+    },
+    {
+      "t": "Pilot"
+    },
+    {
+      "t": "Stjuardesë"
+    },
+    {
+      "t": "Shofer autobusi"
+    },
+    {
+      "t": "Taksist"
+    },
+    {
+      "t": "Kamionist"
+    },
+    {
+      "t": "Marinar"
+    },
+    {
+      "t": "Astronaut"
+    },
+    {
+      "t": "Postier"
+    },
+    {
+      "t": "Roje"
+    },
+    {
+      "t": "Detektiv"
+    },
+    {
+      "t": "Spiun"
+    },
+    {
+      "t": "Arbitër"
+    },
+    {
+      "t": "Trajner"
+    },
+    {
+      "t": "Psikolog"
+    },
+    {
+      "t": "Punonjës social"
+    },
+    {
+      "t": "Prift"
+    },
+    {
+      "t": "Politikan"
+    },
+    {
+      "t": "Ambasador"
+    },
+    {
+      "t": "Arkeolog"
+    },
+    {
+      "t": "Gjeolog"
+    },
+    {
+      "t": "Meteorolog"
+    },
+    {
+      "t": "Bletar"
+    },
+    {
+      "t": "Minator"
+    },
+    {
+      "t": "Farkëtar"
+    },
+    {
+      "t": "Magjistar"
+    },
+    {
+      "t": "Kloun"
+    },
+    {
+      "t": "Model"
+    },
+    {
+      "t": "Florist"
+    },
+    {
+      "t": "Barinj"
+    },
+    {
+      "t": "Rojtar plazhi"
+    },
+    {
+      "t": "Ndërtues"
+    },
+    {
+      "t": "Elektronist"
+    },
+    {
+      "t": "Nëpunës"
+    },
+    {
+      "t": "Studente"
+    },
+    {
+      "t": "Ushtarak"
+    },
+    {
+      "t": "Doktoreshë"
+    },
+    {
+      "t": "Mësuese kopshti"
+    }
+  ]
+}

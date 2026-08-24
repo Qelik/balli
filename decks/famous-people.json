@@ -1,0 +1,357 @@
+{
+  "id": "famous-people",
+  "name": "Famous People",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "dd25c1b0",
+  "cards": [
+    {
+      "t": "Albert Einstein"
+    },
+    {
+      "t": "Isaac Newton"
+    },
+    {
+      "t": "Charles Darwin"
+    },
+    {
+      "t": "Marie Curie"
+    },
+    {
+      "t": "Nikola Tesla"
+    },
+    {
+      "t": "Thomas Edison"
+    },
+    {
+      "t": "Galileo Galilei"
+    },
+    {
+      "t": "Stephen Hawking"
+    },
+    {
+      "t": "Alan Turing"
+    },
+    {
+      "t": "Ada Lovelace"
+    },
+    {
+      "t": "Leonardo da Vinci"
+    },
+    {
+      "t": "Michelangelo"
+    },
+    {
+      "t": "Vincent van Gogh"
+    },
+    {
+      "t": "Pablo Picasso"
+    },
+    {
+      "t": "Salvador Dalí"
+    },
+    {
+      "t": "Frida Kahlo"
+    },
+    {
+      "t": "Claude Monet"
+    },
+    {
+      "t": "Andy Warhol"
+    },
+    {
+      "t": "William Shakespeare"
+    },
+    {
+      "t": "Jane Austen"
+    },
+    {
+      "t": "Charles Dickens"
+    },
+    {
+      "t": "Mark Twain"
+    },
+    {
+      "t": "Ernest Hemingway"
+    },
+    {
+      "t": "Agatha Christie"
+    },
+    {
+      "t": "J.K. Rowling"
+    },
+    {
+      "t": "George Orwell"
+    },
+    {
+      "t": "Ismail Kadare"
+    },
+    {
+      "t": "Ludwig van Beethoven"
+    },
+    {
+      "t": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "t": "Johann Sebastian Bach"
+    },
+    {
+      "t": "Frédéric Chopin"
+    },
+    {
+      "t": "Napoleon Bonaparte"
+    },
+    {
+      "t": "Julius Caesar"
+    },
+    {
+      "t": "Cleopatra"
+    },
+    {
+      "t": "Alexander the Great"
+    },
+    {
+      "t": "Genghis Khan"
+    },
+    {
+      "t": "Christopher Columbus"
+    },
+    {
+      "t": "Marco Polo"
+    },
+    {
+      "t": "Joan of Arc"
+    },
+    {
+      "t": "Skanderbeg"
+    },
+    {
+      "t": "Queen Victoria"
+    },
+    {
+      "t": "Queen Elizabeth II"
+    },
+    {
+      "t": "Winston Churchill"
+    },
+    {
+      "t": "Abraham Lincoln"
+    },
+    {
+      "t": "George Washington"
+    },
+    {
+      "t": "Martin Luther King Jr."
+    },
+    {
+      "t": "Rosa Parks"
+    },
+    {
+      "t": "Nelson Mandela"
+    },
+    {
+      "t": "Mahatma Gandhi"
+    },
+    {
+      "t": "Mother Teresa"
+    },
+    {
+      "t": "Malala Yousafzai"
+    },
+    {
+      "t": "Anne Frank"
+    },
+    {
+      "t": "Che Guevara"
+    },
+    {
+      "t": "Barack Obama"
+    },
+    {
+      "t": "Amelia Earhart"
+    },
+    {
+      "t": "Neil Armstrong"
+    },
+    {
+      "t": "Yuri Gagarin"
+    },
+    {
+      "t": "Jacques Cousteau"
+    },
+    {
+      "t": "David Attenborough"
+    },
+    {
+      "t": "Jane Goodall"
+    },
+    {
+      "t": "Steve Jobs"
+    },
+    {
+      "t": "Bill Gates"
+    },
+    {
+      "t": "Elon Musk"
+    },
+    {
+      "t": "Walt Disney"
+    },
+    {
+      "t": "Alfred Hitchcock"
+    },
+    {
+      "t": "Steven Spielberg"
+    },
+    {
+      "t": "Quentin Tarantino"
+    },
+    {
+      "t": "Charlie Chaplin"
+    },
+    {
+      "t": "Marilyn Monroe"
+    },
+    {
+      "t": "Audrey Hepburn"
+    },
+    {
+      "t": "Leonardo DiCaprio"
+    },
+    {
+      "t": "Tom Hanks"
+    },
+    {
+      "t": "Meryl Streep"
+    },
+    {
+      "t": "Denzel Washington"
+    },
+    {
+      "t": "Morgan Freeman"
+    },
+    {
+      "t": "Robert De Niro"
+    },
+    {
+      "t": "Al Pacino"
+    },
+    {
+      "t": "Keanu Reeves"
+    },
+    {
+      "t": "Dwayne Johnson"
+    },
+    {
+      "t": "Jackie Chan"
+    },
+    {
+      "t": "Bruce Lee"
+    },
+    {
+      "t": "Angelina Jolie"
+    },
+    {
+      "t": "Brad Pitt"
+    },
+    {
+      "t": "Will Smith"
+    },
+    {
+      "t": "Jennifer Lawrence"
+    },
+    {
+      "t": "Emma Watson"
+    },
+    {
+      "t": "Zendaya"
+    },
+    {
+      "t": "Oprah Winfrey"
+    },
+    {
+      "t": "Ellen DeGeneres"
+    },
+    {
+      "t": "Gordon Ramsay"
+    },
+    {
+      "t": "Muhammad Ali"
+    },
+    {
+      "t": "Michael Jordan"
+    },
+    {
+      "t": "Serena Williams"
+    },
+    {
+      "t": "Roger Federer"
+    },
+    {
+      "t": "Usain Bolt"
+    },
+    {
+      "t": "Lionel Messi"
+    },
+    {
+      "t": "Cristiano Ronaldo"
+    },
+    {
+      "t": "Diego Maradona"
+    },
+    {
+      "t": "Pelé"
+    },
+    {
+      "t": "Michael Phelps"
+    },
+    {
+      "t": "Lewis Hamilton"
+    },
+    {
+      "t": "Michael Schumacher"
+    },
+    {
+      "t": "Elvis Presley"
+    },
+    {
+      "t": "Michael Jackson"
+    },
+    {
+      "t": "Freddie Mercury"
+    },
+    {
+      "t": "John Lennon"
+    },
+    {
+      "t": "Bob Marley"
+    },
+    {
+      "t": "Madonna"
+    },
+    {
+      "t": "Beyoncé"
+    },
+    {
+      "t": "Taylor Swift"
+    },
+    {
+      "t": "Adele"
+    },
+    {
+      "t": "Rihanna"
+    },
+    {
+      "t": "Lady Gaga"
+    },
+    {
+      "t": "Ed Sheeran"
+    },
+    {
+      "t": "Dua Lipa"
+    },
+    {
+      "t": "Rita Ora"
+    }
+  ]
+}

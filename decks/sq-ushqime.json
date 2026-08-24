@@ -1,0 +1,318 @@
+{
+  "id": "sq-ushqime",
+  "name": "Ushqime dhe pije",
+  "lang": "sq",
+  "source": "handwritten",
+  "version": "19cd525a",
+  "cards": [
+    {
+      "t": "Bukë"
+    },
+    {
+      "t": "Djathë"
+    },
+    {
+      "t": "Gjalpë"
+    },
+    {
+      "t": "Qumësht"
+    },
+    {
+      "t": "Kos"
+    },
+    {
+      "t": "Vezë"
+    },
+    {
+      "t": "Mish"
+    },
+    {
+      "t": "Mish pule"
+    },
+    {
+      "t": "Peshk"
+    },
+    {
+      "t": "Sallam"
+    },
+    {
+      "t": "Suxhuk"
+    },
+    {
+      "t": "Proshutë"
+    },
+    {
+      "t": "Byrek"
+    },
+    {
+      "t": "Petulla"
+    },
+    {
+      "t": "Flia"
+    },
+    {
+      "t": "Tavë kosi"
+    },
+    {
+      "t": "Fërgesë"
+    },
+    {
+      "t": "Qofte"
+    },
+    {
+      "t": "Speca të mbushur"
+    },
+    {
+      "t": "Japrak"
+    },
+    {
+      "t": "Pite"
+    },
+    {
+      "t": "Baklava"
+    },
+    {
+      "t": "Trileçe"
+    },
+    {
+      "t": "Revani"
+    },
+    {
+      "t": "Sheqerpare"
+    },
+    {
+      "t": "Kadaif"
+    },
+    {
+      "t": "Ballokume"
+    },
+    {
+      "t": "Krem karamel"
+    },
+    {
+      "t": "Domate"
+    },
+    {
+      "t": "Kastravec"
+    },
+    {
+      "t": "Spec"
+    },
+    {
+      "t": "Patate"
+    },
+    {
+      "t": "Qepë"
+    },
+    {
+      "t": "Hudhër"
+    },
+    {
+      "t": "Karotë"
+    },
+    {
+      "t": "Lakër"
+    },
+    {
+      "t": "Spinaq"
+    },
+    {
+      "t": "Bizele"
+    },
+    {
+      "t": "Fasule"
+    },
+    {
+      "t": "Patëllxhan"
+    },
+    {
+      "t": "Kungull"
+    },
+    {
+      "t": "Kërpudha"
+    },
+    {
+      "t": "Marule"
+    },
+    {
+      "t": "Majdanoz"
+    },
+    {
+      "t": "Panxhar"
+    },
+    {
+      "t": "Mollë"
+    },
+    {
+      "t": "Dardhë"
+    },
+    {
+      "t": "Portokall"
+    },
+    {
+      "t": "Limon"
+    },
+    {
+      "t": "Rrush"
+    },
+    {
+      "t": "Luleshtrydhe"
+    },
+    {
+      "t": "Pjeshkë"
+    },
+    {
+      "t": "Kumbull"
+    },
+    {
+      "t": "Qershi"
+    },
+    {
+      "t": "Fik"
+    },
+    {
+      "t": "Shalqi"
+    },
+    {
+      "t": "Pjepër"
+    },
+    {
+      "t": "Banane"
+    },
+    {
+      "t": "Ananas"
+    },
+    {
+      "t": "Arrë"
+    },
+    {
+      "t": "Lajthi"
+    },
+    {
+      "t": "Bajame"
+    },
+    {
+      "t": "Gështenjë"
+    },
+    {
+      "t": "Ujë"
+    },
+    {
+      "t": "Çaj"
+    },
+    {
+      "t": "Kafe"
+    },
+    {
+      "t": "Kafe turke"
+    },
+    {
+      "t": "Lëng portokalli"
+    },
+    {
+      "t": "Limonadë"
+    },
+    {
+      "t": "Birrë"
+    },
+    {
+      "t": "Verë"
+    },
+    {
+      "t": "Raki"
+    },
+    {
+      "t": "Boza"
+    },
+    {
+      "t": "Dhallë"
+    },
+    {
+      "t": "Shampanjë"
+    },
+    {
+      "t": "Oriz"
+    },
+    {
+      "t": "Makarona"
+    },
+    {
+      "t": "Pica"
+    },
+    {
+      "t": "Hamburger"
+    },
+    {
+      "t": "Sallatë"
+    },
+    {
+      "t": "Supë"
+    },
+    {
+      "t": "Turshi"
+    },
+    {
+      "t": "Vaj ulliri"
+    },
+    {
+      "t": "Ullinj"
+    },
+    {
+      "t": "Kripë"
+    },
+    {
+      "t": "Piper"
+    },
+    {
+      "t": "Sheqer"
+    },
+    {
+      "t": "Mjaltë"
+    },
+    {
+      "t": "Reçel"
+    },
+    {
+      "t": "Çokollatë"
+    },
+    {
+      "t": "Akullore"
+    },
+    {
+      "t": "Tortë"
+    },
+    {
+      "t": "Biskota"
+    },
+    {
+      "t": "Kikirikë"
+    },
+    {
+      "t": "Kokoshka"
+    },
+    {
+      "t": "Patatina"
+    },
+    {
+      "t": "Salcë kosi"
+    },
+    {
+      "t": "Miell"
+    },
+    {
+      "t": "Bukë misri"
+    },
+    {
+      "t": "Speca djegës"
+    },
+    {
+      "t": "Mish qengji"
+    },
+    {
+      "t": "Tarator"
+    },
+    {
+      "t": "Pilaf"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "id": "landmarks",
+  "name": "Landmarks",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "aa524f86",
+  "cards": [
+    {
+      "t": "Eiffel Tower"
+    },
+    {
+      "t": "Big Ben"
+    },
+    {
+      "t": "Tower Bridge"
+    },
+    {
+      "t": "Buckingham Palace"
+    },
+    {
+      "t": "Stonehenge"
+    },
+    {
+      "t": "Colosseum"
+    },
+    {
+      "t": "Leaning Tower of Pisa"
+    },
+    {
+      "t": "Trevi Fountain"
+    },
+    {
+      "t": "Vatican City"
+    },
+    {
+      "t": "Sistine Chapel"
+    },
+    {
+      "t": "Sagrada Família"
+    },
+    {
+      "t": "Alhambra"
+    },
+    {
+      "t": "Acropolis"
+    },
+    {
+      "t": "Parthenon"
+    },
+    {
+      "t": "Brandenburg Gate"
+    },
+    {
+      "t": "Neuschwanstein Castle"
+    },
+    {
+      "t": "Little Mermaid statue"
+    },
+    {
+      "t": "Atomium"
+    },
+    {
+      "t": "Windmills of Kinderdijk"
+    },
+    {
+      "t": "Northern Lights"
+    },
+    {
+      "t": "Blue Lagoon"
+    },
+    {
+      "t": "Loch Ness"
+    },
+    {
+      "t": "Cliffs of Moher"
+    },
+    {
+      "t": "Mont Saint-Michel"
+    },
+    {
+      "t": "Louvre"
+    },
+    {
+      "t": "Arc de Triomphe"
+    },
+    {
+      "t": "Notre-Dame"
+    },
+    {
+      "t": "Palace of Versailles"
+    },
+    {
+      "t": "Matterhorn"
+    },
+    {
+      "t": "Mount Etna"
+    },
+    {
+      "t": "Santorini"
+    },
+    {
+      "t": "Meteora"
+    },
+    {
+      "t": "Blue Eye of Albania",
+      "hint": "spring, Sarandë"
+    },
+    {
+      "t": "Rozafa Castle",
+      "hint": "Shkodër"
+    },
+    {
+      "t": "Berat old town"
+    },
+    {
+      "t": "Gjirokastër castle"
+    },
+    {
+      "t": "Ohrid Lake"
+    },
+    {
+      "t": "Dubrovnik old town"
+    },
+    {
+      "t": "Plitvice Lakes"
+    },
+    {
+      "t": "Bran Castle"
+    },
+    {
+      "t": "Red Square"
+    },
+    {
+      "t": "Saint Basil's Cathedral"
+    },
+    {
+      "t": "Hermitage Museum"
+    },
+    {
+      "t": "Hagia Sophia"
+    },
+    {
+      "t": "Blue Mosque"
+    },
+    {
+      "t": "Cappadocia"
+    },
+    {
+      "t": "Pamukkale"
+    },
+    {
+      "t": "Petra"
+    },
+    {
+      "t": "Dead Sea"
+    },
+    {
+      "t": "Pyramids of Giza"
+    },
+    {
+      "t": "Great Sphinx"
+    },
+    {
+      "t": "Valley of the Kings"
+    },
+    {
+      "t": "Sahara Desert"
+    },
+    {
+      "t": "Mount Kilimanjaro"
+    },
+    {
+      "t": "Serengeti"
+    },
+    {
+      "t": "Victoria Falls"
+    },
+    {
+      "t": "Table Mountain"
+    },
+    {
+      "t": "Marrakesh souk"
+    },
+    {
+      "t": "Burj Khalifa"
+    },
+    {
+      "t": "Palm Jumeirah"
+    },
+    {
+      "t": "Taj Mahal"
+    },
+    {
+      "t": "Ganges River"
+    },
+    {
+      "t": "Mount Everest"
+    },
+    {
+      "t": "Great Wall of China"
+    },
+    {
+      "t": "Forbidden City"
+    },
+    {
+      "t": "Terracotta Army"
+    },
+    {
+      "t": "Mount Fuji"
+    },
+    {
+      "t": "Tokyo Tower"
+    },
+    {
+      "t": "Shibuya Crossing"
+    },
+    {
+      "t": "Angkor Wat"
+    },
+    {
+      "t": "Halong Bay"
+    },
+    {
+      "t": "Petronas Towers"
+    },
+    {
+      "t": "Marina Bay Sands"
+    },
+    {
+      "t": "Bali rice terraces"
+    },
+    {
+      "t": "Sydney Opera House"
+    },
+    {
+      "t": "Sydney Harbour Bridge"
+    },
+    {
+      "t": "Uluru"
+    },
+    {
+      "t": "Great Barrier Reef"
+    },
+    {
+      "t": "Milford Sound"
+    },
+    {
+      "t": "Statue of Liberty"
+    },
+    {
+      "t": "Empire State Building"
+    },
+    {
+      "t": "Times Square"
+    },
+    {
+      "t": "Brooklyn Bridge"
+    },
+    {
+      "t": "Golden Gate Bridge"
+    },
+    {
+      "t": "Hollywood sign"
+    },
+    {
+      "t": "Mount Rushmore"
+    },
+    {
+      "t": "Grand Canyon"
+    },
+    {
+      "t": "Yellowstone"
+    },
+    {
+      "t": "Niagara Falls"
+    },
+    {
+      "t": "White House"
+    },
+    {
+      "t": "Las Vegas Strip"
+    },
+    {
+      "t": "Route 66"
+    },
+    {
+      "t": "CN Tower"
+    },
+    {
+      "t": "Chichén Itzá"
+    },
+    {
+      "t": "Machu Picchu"
+    },
+    {
+      "t": "Christ the Redeemer"
+    },
+    {
+      "t": "Iguazu Falls"
+    },
+    {
+      "t": "Amazon rainforest"
+    },
+    {
+      "t": "Salar de Uyuni"
+    },
+    {
+      "t": "Easter Island"
+    },
+    {
+      "t": "Galápagos Islands"
+    },
+    {
+      "t": "Panama Canal"
+    },
+    {
+      "t": "Antarctica"
+    },
+    {
+      "t": "North Pole"
+    }
+  ]
+}

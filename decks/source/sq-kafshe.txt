@@ -1,0 +1,105 @@
+name: Kafshë
+lang: sq
+category: Natyrë
+emoji: 🦊
+---
+Elefant
+Gjirafë
+Pinguin
+Kangur
+Krokodil
+Hipopotam
+Rinoqeront
+Gepard
+Leopard
+Tigër
+Luan
+Panda
+Ari
+Ari polar
+Koala
+Majmun
+Gorillë
+Zebër
+Deve
+Lama
+Gomar
+Kalë
+Lopë
+Dele
+Dhi
+Derr
+Pulë
+Gjel
+Rosë
+Patë
+Gjel deti
+Palloi
+Struc
+Flamingo
+Pelikan
+Pulëbardhë
+Shqiponjë
+Buf
+Papagall
+Qukapik
+Mjellmë
+Sorrë
+Pëllumb
+Lakuriq nate
+Mi
+Ketër
+Iriq
+Lepur
+Dhelpër
+Ujk
+Dre
+Vidër
+Kastor
+Gjarpër
+Hardhucë
+Kameleon
+Breshkë
+Bretkosë
+Peshkaqen
+Balenë
+Delfin
+Oktapod
+Kallamar
+Kandil deti
+Yll deti
+Gaforre
+Karavidhe
+Karkalec deti
+Kalë deti
+Ngjalë
+Bletë
+Grerëz
+Milingonë
+Flutur
+Merimangë
+Akrep
+Mollëkuqe
+Karkalec
+Pilivesa
+Mushkonjë
+Kërmill
+Krimb
+Mace
+Qen
+Hamster
+Peshk
+Zog
+Miush
+Buall
+Rrëqebull
+Baldosë
+Nuselalë
+Çakall
+Ariu i murrmë
+Kaproll
+Cjap
+Mëz
+Këlysh
+Zogth
+Dhi e egër

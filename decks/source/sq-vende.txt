@@ -1,0 +1,112 @@
+name: Vende dhe qytete
+lang: sq
+category: Bota
+emoji: 🏔️
+---
+Tiranë
+Durrës
+Vlorë
+Sarandë
+Shkodër
+Elbasan
+Korçë
+Berat
+Gjirokastër
+Fier
+Lushnjë
+Pogradec
+Kukës
+Peshkopi
+Lezhë
+Krujë
+Himarë
+Ksamil
+Dhërmi
+Theth
+Valbonë
+Butrint
+Apolloni
+Llogara
+Karaburun
+Sazan
+Prishtinë
+Prizren
+Pejë
+Gjakovë
+Mitrovicë
+Ferizaj
+Gjilan
+Rahovec
+Deçan
+Rugovë
+Brezovicë
+Shkup
+Tetovë
+Gostivar
+Strugë
+Ohër
+Dibër
+Kërçovë
+Kumanovë
+Ulqin
+Tuz
+Podgoricë
+Plavë
+Sheshi Skënderbej
+Piramida e Tiranës
+Kalaja e Rozafës
+Kalaja e Krujës
+Kalaja e Beratit
+Syri i Kaltër
+Liqeni i Ohrit
+Liqeni i Shkodrës
+Mali i Tomorrit
+Mali i Korabit
+Alpet Shqiptare
+Gryka e Rugovës
+Ura e Mesit
+Kanioni i Osumit
+Plazhi i Gjipesë
+Qafa e Thanës
+Blloku
+Rruga e Kombit
+Lumi Drin
+Lumi Vjosa
+Deti Adriatik
+Deti Jon
+Romë
+Athinë
+Stamboll
+Paris
+Londër
+Berlin
+Madrid
+Nju Jork
+Moskë
+Pekin
+Tokio
+Kajro
+Dubai
+Amsterdam
+Vjenë
+Pragë
+Budapest
+Beograd
+Zagreb
+Sofje
+Bukuresht
+Selanik
+Milano
+Napoli
+Venecia
+Barcelonë
+Lisbonë
+Shqipëri
+Kosovë
+Maqedonia e Veriut
+Mali i Zi
+Greqi
+Itali
+Turqi
+Zvicër
+Gjermani

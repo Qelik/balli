@@ -1,0 +1,89 @@
+name: Figura shqiptare
+lang: sq
+category: Njerëz
+emoji: 🇦🇱
+---
+Skënderbeu
+Nënë Tereza
+Ismail Kadare
+Ismail Qemali
+Naim Frashëri
+Sami Frashëri
+Abdyl Frashëri
+Gjergj Fishta
+Fan Noli
+Migjeni
+Dritëro Agolli
+Adem Jashari
+Isa Boletini
+Azem Galica
+Shote Galica
+Nora e Kelmendit
+Marin Barleti
+Pjetër Bogdani
+Gjon Buzuku
+Aleksandër Moisiu
+Bekim Fehmiu
+Inva Mula
+Anri Sala
+Ibrahim Kodra
+Vaçe Zela
+Nexhmije Pagarusha
+Tefta Tashko
+Eqrem Çabej
+Petro Marko
+Ahmet Zogu
+Enver Hoxha
+Edi Rama
+Ibrahim Rugova
+Dua Lipa
+Rita Ora
+Era Istrefi
+Elvana Gjata
+Ermal Meta
+Noizy
+Ledri Vula
+Capital T
+Bebe Rexha
+Action Bronson
+Gjiko
+Aurela Gaçe
+Alban Skënderaj
+Adelina Ismajli
+Adrian Gaxha
+Sabri Fejzullahu
+Nexhat Bejta
+Lorik Cana
+Granit Xhaka
+Xherdan Shaqiri
+Armando Broja
+Berat Gjimshiti
+Elseid Hysaj
+Etrit Berisha
+Milot Rashica
+Vedat Muriqi
+Majlinda Kelmendi
+Distria Krasniqi
+Nora Gjakova
+Luiza Gega
+Klodiana Lala
+Ana Oxa
+Eliza Dushku
+Masiela Lusha
+Besa Kokëdhima
+Genta Ismajli
+Rona Nishliu
+Jonida Maliqi
+Elhaida Dani
+Redon Makashi
+Blero
+Tuna
+Dafina Zeqiri
+Getinjo
+Mozzik
+Loredana
+Enca
+Butrint Imeri
+Dhurata Dora
+Fifi
+Arilena Ara

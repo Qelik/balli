@@ -1,0 +1,330 @@
+{
+  "id": "sq-vende",
+  "name": "Vende dhe qytete",
+  "lang": "sq",
+  "source": "handwritten",
+  "version": "516e2316",
+  "cards": [
+    {
+      "t": "Tiranë"
+    },
+    {
+      "t": "Durrës"
+    },
+    {
+      "t": "Vlorë"
+    },
+    {
+      "t": "Sarandë"
+    },
+    {
+      "t": "Shkodër"
+    },
+    {
+      "t": "Elbasan"
+    },
+    {
+      "t": "Korçë"
+    },
+    {
+      "t": "Berat"
+    },
+    {
+      "t": "Gjirokastër"
+    },
+    {
+      "t": "Fier"
+    },
+    {
+      "t": "Lushnjë"
+    },
+    {
+      "t": "Pogradec"
+    },
+    {
+      "t": "Kukës"
+    },
+    {
+      "t": "Peshkopi"
+    },
+    {
+      "t": "Lezhë"
+    },
+    {
+      "t": "Krujë"
+    },
+    {
+      "t": "Himarë"
+    },
+    {
+      "t": "Ksamil"
+    },
+    {
+      "t": "Dhërmi"
+    },
+    {
+      "t": "Theth"
+    },
+    {
+      "t": "Valbonë"
+    },
+    {
+      "t": "Butrint"
+    },
+    {
+      "t": "Apolloni"
+    },
+    {
+      "t": "Llogara"
+    },
+    {
+      "t": "Karaburun"
+    },
+    {
+      "t": "Sazan"
+    },
+    {
+      "t": "Prishtinë"
+    },
+    {
+      "t": "Prizren"
+    },
+    {
+      "t": "Pejë"
+    },
+    {
+      "t": "Gjakovë"
+    },
+    {
+      "t": "Mitrovicë"
+    },
+    {
+      "t": "Ferizaj"
+    },
+    {
+      "t": "Gjilan"
+    },
+    {
+      "t": "Rahovec"
+    },
+    {
+      "t": "Deçan"
+    },
+    {
+      "t": "Rugovë"
+    },
+    {
+      "t": "Brezovicë"
+    },
+    {
+      "t": "Shkup"
+    },
+    {
+      "t": "Tetovë"
+    },
+    {
+      "t": "Gostivar"
+    },
+    {
+      "t": "Strugë"
+    },
+    {
+      "t": "Ohër"
+    },
+    {
+      "t": "Dibër"
+    },
+    {
+      "t": "Kërçovë"
+    },
+    {
+      "t": "Kumanovë"
+    },
+    {
+      "t": "Ulqin"
+    },
+    {
+      "t": "Tuz"
+    },
+    {
+      "t": "Podgoricë"
+    },
+    {
+      "t": "Plavë"
+    },
+    {
+      "t": "Sheshi Skënderbej"
+    },
+    {
+      "t": "Piramida e Tiranës"
+    },
+    {
+      "t": "Kalaja e Rozafës"
+    },
+    {
+      "t": "Kalaja e Krujës"
+    },
+    {
+      "t": "Kalaja e Beratit"
+    },
+    {
+      "t": "Syri i Kaltër"
+    },
+    {
+      "t": "Liqeni i Ohrit"
+    },
+    {
+      "t": "Liqeni i Shkodrës"
+    },
+    {
+      "t": "Mali i Tomorrit"
+    },
+    {
+      "t": "Mali i Korabit"
+    },
+    {
+      "t": "Alpet Shqiptare"
+    },
+    {
+      "t": "Gryka e Rugovës"
+    },
+    {
+      "t": "Ura e Mesit"
+    },
+    {
+      "t": "Kanioni i Osumit"
+    },
+    {
+      "t": "Plazhi i Gjipesë"
+    },
+    {
+      "t": "Qafa e Thanës"
+    },
+    {
+      "t": "Blloku"
+    },
+    {
+      "t": "Rruga e Kombit"
+    },
+    {
+      "t": "Lumi Drin"
+    },
+    {
+      "t": "Lumi Vjosa"
+    },
+    {
+      "t": "Deti Adriatik"
+    },
+    {
+      "t": "Deti Jon"
+    },
+    {
+      "t": "Romë"
+    },
+    {
+      "t": "Athinë"
+    },
+    {
+      "t": "Stamboll"
+    },
+    {
+      "t": "Paris"
+    },
+    {
+      "t": "Londër"
+    },
+    {
+      "t": "Berlin"
+    },
+    {
+      "t": "Madrid"
+    },
+    {
+      "t": "Nju Jork"
+    },
+    {
+      "t": "Moskë"
+    },
+    {
+      "t": "Pekin"
+    },
+    {
+      "t": "Tokio"
+    },
+    {
+      "t": "Kajro"
+    },
+    {
+      "t": "Dubai"
+    },
+    {
+      "t": "Amsterdam"
+    },
+    {
+      "t": "Vjenë"
+    },
+    {
+      "t": "Pragë"
+    },
+    {
+      "t": "Budapest"
+    },
+    {
+      "t": "Beograd"
+    },
+    {
+      "t": "Zagreb"
+    },
+    {
+      "t": "Sofje"
+    },
+    {
+      "t": "Bukuresht"
+    },
+    {
+      "t": "Selanik"
+    },
+    {
+      "t": "Milano"
+    },
+    {
+      "t": "Napoli"
+    },
+    {
+      "t": "Venecia"
+    },
+    {
+      "t": "Barcelonë"
+    },
+    {
+      "t": "Lisbonë"
+    },
+    {
+      "t": "Shqipëri"
+    },
+    {
+      "t": "Kosovë"
+    },
+    {
+      "t": "Maqedonia e Veriut"
+    },
+    {
+      "t": "Mali i Zi"
+    },
+    {
+      "t": "Greqi"
+    },
+    {
+      "t": "Itali"
+    },
+    {
+      "t": "Turqi"
+    },
+    {
+      "t": "Zvicër"
+    },
+    {
+      "t": "Gjermani"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+name: Sports
+lang: en
+category: People
+emoji: ⚽
+---
+Football
+Basketball
+Tennis
+Volleyball
+Handball
+Rugby
+Cricket
+Baseball
+American football
+Ice hockey
+Field hockey
+Golf
+Badminton
+Table tennis
+Squash
+Bowling
+Snooker
+Darts
+Boxing
+Wrestling
+Judo
+Karate
+Taekwondo
+Kickboxing
+Fencing
+Weightlifting
+Gymnastics
+Athletics
+Marathon
+Sprinting
+High jump
+Long jump
+Pole vault
+Shot put
+Javelin
+Discus
+Hurdles
+Swimming
+Diving
+Water polo
+Surfing
+Sailing
+Rowing
+Canoeing
+Windsurfing
+Skiing
+Snowboarding
+Ice skating
+Figure skating
+Curling
+Bobsleigh
+Ski jumping
+Cycling
+Mountain biking
+BMX
+Motorcycle racing
+Formula 1
+Rally driving
+Horse riding
+Show jumping
+Archery
+Shooting
+Climbing
+Bouldering
+Skateboarding
+Rollerblading
+Parkour
+Trampolining
+Yoga
+Pilates
+Chess
+Poker
+Esports
+Cristiano Ronaldo
+Lionel Messi
+Neymar
+Kylian Mbappé
+Erling Haaland
+Mohamed Salah
+Zinedine Zidane
+David Beckham
+Ronaldinho
+Diego Maradona
+Pelé
+Lorik Cana
+Granit Xhaka
+Xherdan Shaqiri
+Michael Jordan
+LeBron James
+Kobe Bryant
+Stephen Curry
+Shaquille O'Neal
+Serena Williams
+Roger Federer
+Rafael Nadal
+Novak Djokovic
+Maria Sharapova
+Usain Bolt
+Michael Phelps
+Simone Biles
+Muhammad Ali
+Mike Tyson
+Floyd Mayweather
+Conor McGregor
+Tiger Woods
+Lewis Hamilton
+Michael Schumacher
+Ayrton Senna
+Wayne Gretzky
+Tom Brady
+Babe Ruth
+Nadia Comăneci

@@ -1,0 +1,145 @@
+name: Around the House
+lang: en
+category: Everyday
+emoji: 🏠
+---
+Fridge
+Freezer
+Oven
+Microwave
+Kettle
+Toaster
+Blender
+Dishwasher
+Washing machine
+Tumble dryer
+Vacuum cleaner
+Iron
+Ironing board
+Broom
+Mop
+Bucket
+Sponge
+Bin
+Sink
+Tap
+Kitchen counter
+Cupboard
+Drawer
+Shelf
+Wardrobe
+Chest of drawers
+Bed
+Pillow
+Duvet
+Blanket
+Mattress
+Bedside table
+Alarm clock
+Lamp
+Ceiling light
+Candle
+Curtains
+Blinds
+Window
+Door
+Doorbell
+Key
+Lock
+Doormat
+Carpet
+Rug
+Sofa
+Armchair
+Coffee table
+Dining table
+Chair
+Stool
+Bookshelf
+Television
+Remote control
+Speaker
+Radio
+Laptop
+Charger
+Extension cord
+Light switch
+Plug socket
+Radiator
+Fireplace
+Fan
+Air conditioner
+Mirror
+Picture frame
+Clock
+Calendar
+Vase
+Houseplant
+Watering can
+Toilet
+Toilet paper
+Shower
+Bath
+Towel
+Toothbrush
+Toothpaste
+Soap
+Shampoo
+Razor
+Hairdryer
+Comb
+Scales
+Laundry basket
+Clothes hanger
+Clothes peg
+Sewing kit
+Scissors
+Tape
+Glue
+Stapler
+Notebook
+Pen
+Pencil
+Ruler
+Torch
+Batteries
+Screwdriver
+Hammer
+Nail
+Screw
+Drill
+Ladder
+Toolbox
+Umbrella
+Suitcase
+Backpack
+Wallet
+Keys
+Sunglasses
+Watch
+Slippers
+Apron
+Oven glove
+Chopping board
+Frying pan
+Saucepan
+Kettle lid
+Corkscrew
+Bottle opener
+Can opener
+Whisk
+Wooden spoon
+Ladle
+Grater
+Colander
+Rolling pin
+Plate
+Bowl
+Mug
+Glass
+Fork
+Knife
+Spoon
+Chopsticks
+Napkin
+Tablecloth

@@ -1,0 +1,333 @@
+{
+  "id": "superheroes",
+  "name": "Superheroes",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "564ddedc",
+  "cards": [
+    {
+      "t": "Superman"
+    },
+    {
+      "t": "Batman"
+    },
+    {
+      "t": "Wonder Woman"
+    },
+    {
+      "t": "The Flash"
+    },
+    {
+      "t": "Aquaman"
+    },
+    {
+      "t": "Green Lantern"
+    },
+    {
+      "t": "Cyborg"
+    },
+    {
+      "t": "Martian Manhunter"
+    },
+    {
+      "t": "Robin"
+    },
+    {
+      "t": "Batgirl"
+    },
+    {
+      "t": "Nightwing"
+    },
+    {
+      "t": "Supergirl"
+    },
+    {
+      "t": "Shazam"
+    },
+    {
+      "t": "Green Arrow"
+    },
+    {
+      "t": "Black Canary"
+    },
+    {
+      "t": "Hawkgirl"
+    },
+    {
+      "t": "Zatanna"
+    },
+    {
+      "t": "The Joker"
+    },
+    {
+      "t": "Harley Quinn"
+    },
+    {
+      "t": "Lex Luthor"
+    },
+    {
+      "t": "The Penguin"
+    },
+    {
+      "t": "The Riddler"
+    },
+    {
+      "t": "Two-Face"
+    },
+    {
+      "t": "Poison Ivy"
+    },
+    {
+      "t": "Catwoman"
+    },
+    {
+      "t": "Bane"
+    },
+    {
+      "t": "Scarecrow"
+    },
+    {
+      "t": "Mr. Freeze"
+    },
+    {
+      "t": "Darkseid"
+    },
+    {
+      "t": "Spider-Man"
+    },
+    {
+      "t": "Iron Man"
+    },
+    {
+      "t": "Captain America"
+    },
+    {
+      "t": "Thor"
+    },
+    {
+      "t": "Hulk"
+    },
+    {
+      "t": "Black Widow"
+    },
+    {
+      "t": "Hawkeye"
+    },
+    {
+      "t": "Doctor Strange"
+    },
+    {
+      "t": "Black Panther"
+    },
+    {
+      "t": "Ant-Man"
+    },
+    {
+      "t": "The Wasp"
+    },
+    {
+      "t": "Captain Marvel"
+    },
+    {
+      "t": "Scarlet Witch"
+    },
+    {
+      "t": "Vision"
+    },
+    {
+      "t": "Falcon"
+    },
+    {
+      "t": "Winter Soldier"
+    },
+    {
+      "t": "Star-Lord"
+    },
+    {
+      "t": "Gamora"
+    },
+    {
+      "t": "Rocket Raccoon"
+    },
+    {
+      "t": "Groot"
+    },
+    {
+      "t": "Drax"
+    },
+    {
+      "t": "Nebula"
+    },
+    {
+      "t": "Loki"
+    },
+    {
+      "t": "Thanos"
+    },
+    {
+      "t": "Ultron"
+    },
+    {
+      "t": "Red Skull"
+    },
+    {
+      "t": "Green Goblin"
+    },
+    {
+      "t": "Doctor Octopus"
+    },
+    {
+      "t": "Venom"
+    },
+    {
+      "t": "Carnage"
+    },
+    {
+      "t": "Mysterio"
+    },
+    {
+      "t": "Kingpin"
+    },
+    {
+      "t": "Magneto"
+    },
+    {
+      "t": "Professor X"
+    },
+    {
+      "t": "Wolverine"
+    },
+    {
+      "t": "Storm"
+    },
+    {
+      "t": "Cyclops"
+    },
+    {
+      "t": "Jean Grey"
+    },
+    {
+      "t": "Mystique"
+    },
+    {
+      "t": "Beast"
+    },
+    {
+      "t": "Nightcrawler"
+    },
+    {
+      "t": "Rogue"
+    },
+    {
+      "t": "Gambit"
+    },
+    {
+      "t": "Deadpool"
+    },
+    {
+      "t": "Daredevil"
+    },
+    {
+      "t": "Punisher"
+    },
+    {
+      "t": "Ghost Rider"
+    },
+    {
+      "t": "Blade"
+    },
+    {
+      "t": "Silver Surfer"
+    },
+    {
+      "t": "Mister Fantastic"
+    },
+    {
+      "t": "Invisible Woman"
+    },
+    {
+      "t": "Human Torch"
+    },
+    {
+      "t": "The Thing"
+    },
+    {
+      "t": "Galactus"
+    },
+    {
+      "t": "Miles Morales"
+    },
+    {
+      "t": "Spider-Gwen"
+    },
+    {
+      "t": "Moon Knight"
+    },
+    {
+      "t": "She-Hulk"
+    },
+    {
+      "t": "Hellboy"
+    },
+    {
+      "t": "The Incredibles"
+    },
+    {
+      "t": "Mr. Incredible"
+    },
+    {
+      "t": "Elastigirl"
+    },
+    {
+      "t": "Frozone"
+    },
+    {
+      "t": "Kick-Ass"
+    },
+    {
+      "t": "Watchmen"
+    },
+    {
+      "t": "Rorschach"
+    },
+    {
+      "t": "Doctor Manhattan"
+    },
+    {
+      "t": "Homelander"
+    },
+    {
+      "t": "Billy Butcher"
+    },
+    {
+      "t": "Invincible"
+    },
+    {
+      "t": "Omni-Man"
+    },
+    {
+      "t": "Saitama"
+    },
+    {
+      "t": "All Might"
+    },
+    {
+      "t": "Astro Boy"
+    },
+    {
+      "t": "Power Rangers"
+    },
+    {
+      "t": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "t": "He-Man"
+    },
+    {
+      "t": "Popeye"
+    },
+    {
+      "t": "Darkwing Duck"
+    }
+  ]
+}

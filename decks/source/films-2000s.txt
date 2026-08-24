@@ -1,0 +1,105 @@
+name: Films of the 2000s
+lang: en
+category: Screen
+emoji: 🎬
+---
+Gladiator
+Cast Away
+Memento
+Shrek
+Monsters, Inc.
+Ocean's Eleven
+Amélie | film, 2001
+Donnie Darko
+Spirited Away
+Moulin Rouge!
+A Beautiful Mind
+Black Hawk Down
+Minority Report
+Catch Me If You Can
+Signs
+8 Mile
+Chicago | musical, 2002
+Ice Age
+Finding Nemo
+Pirates of the Caribbean
+Kill Bill
+Lost in Translation
+Elf
+School of Rock
+Big Fish
+Love Actually
+The Incredibles
+Shaun of the Dead
+Napoleon Dynamite
+Mean Girls
+The Notebook
+Anchorman
+Team America
+Hotel Rwanda
+Sideways
+Batman Begins
+Sin City
+King Kong | film, 2005
+Brokeback Mountain
+Walk the Line
+Wallace & Gromit
+V for Vendetta
+The Departed
+Little Miss Sunshine
+Casino Royale
+Borat
+The Prestige
+Pan's Labyrinth
+Cars | animated, 2006
+Happy Feet
+The Devil Wears Prada
+Children of Men
+Ratatouille
+No Country for Old Men
+There Will Be Blood
+Juno
+Superbad
+Hot Fuzz
+300
+I Am Legend
+Atonement
+Sweeney Todd
+The Dark Knight
+WALL-E
+Slumdog Millionaire
+Iron Man
+Kung Fu Panda
+Mamma Mia!
+Twilight | film, 2008
+Tropic Thunder
+Gran Torino
+The Curious Case of Benjamin Button
+Avatar | film, 2009
+Up | animated, 2009
+The Hangover
+Inglourious Basterds
+District 9
+Star Trek | reboot, 2009
+Sherlock Holmes | film, 2009
+Coraline
+Zombieland
+The Hurt Locker
+Fantastic Mr. Fox
+The Lord of the Rings
+Harry Potter
+The Matrix Reloaded
+Spider-Man | film, 2002
+X-Men
+Bruce Almighty
+Meet the Parents
+Bridget Jones's Diary
+Legally Blonde
+Zoolander
+Old School
+Dodgeball
+Wedding Crashers
+Talladega Nights
+Knocked Up
+Step Brothers
+Role Models

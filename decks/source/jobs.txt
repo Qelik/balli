@@ -1,0 +1,121 @@
+name: Jobs
+lang: en
+category: Everyday
+emoji: 👷
+---
+Doctor
+Nurse
+Surgeon
+Dentist
+Pharmacist
+Vet
+Paramedic
+Firefighter
+Police officer
+Soldier
+Lifeguard
+Teacher
+Professor
+Librarian
+Scientist
+Engineer
+Architect
+Builder
+Plumber
+Electrician
+Carpenter
+Decorator
+Mechanic
+Welder
+Farmer
+Fisherman
+Gardener
+Chef
+Baker
+Butcher
+Barista
+Waiter
+Bartender
+Cleaner
+Hairdresser
+Barber
+Tailor
+Shoemaker
+Jeweller
+Watchmaker
+Photographer
+Journalist
+News reporter
+Presenter
+Radio DJ
+Actor
+Comedian
+Singer
+Musician
+Conductor
+Dancer
+Painter
+Sculptor
+Writer
+Poet
+Translator
+Lawyer
+Judge
+Accountant
+Banker
+Estate agent
+Salesperson
+Cashier
+Shopkeeper
+Receptionist
+Secretary
+Manager
+Consultant
+Programmer
+Designer
+Pilot
+Flight attendant
+Bus driver
+Taxi driver
+Truck driver
+Train driver
+Sailor
+Astronaut
+Postman
+Delivery driver
+Rubbish collector
+Security guard
+Bodyguard
+Detective
+Spy
+Referee
+Football coach
+Personal trainer
+Yoga teacher
+Massage therapist
+Optician
+Physiotherapist
+Psychologist
+Social worker
+Priest
+Politician
+Diplomat
+Archaeologist
+Geologist
+Meteorologist
+Zookeeper
+Beekeeper
+Miner
+Lumberjack
+Blacksmith
+Magician
+Clown
+Juggler
+Acrobat
+Stuntman
+Model
+Tattoo artist
+Florist
+Undertaker
+Bin man
+Lighthouse keeper

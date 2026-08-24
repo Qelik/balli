@@ -1,0 +1,121 @@
+name: Famous People
+lang: en
+category: People
+emoji: 🌟
+---
+Albert Einstein
+Isaac Newton
+Charles Darwin
+Marie Curie
+Nikola Tesla
+Thomas Edison
+Galileo Galilei
+Stephen Hawking
+Alan Turing
+Ada Lovelace
+Leonardo da Vinci
+Michelangelo
+Vincent van Gogh
+Pablo Picasso
+Salvador Dalí
+Frida Kahlo
+Claude Monet
+Andy Warhol
+William Shakespeare
+Jane Austen
+Charles Dickens
+Mark Twain
+Ernest Hemingway
+Agatha Christie
+J.K. Rowling
+George Orwell
+Ismail Kadare
+Ludwig van Beethoven
+Wolfgang Amadeus Mozart
+Johann Sebastian Bach
+Frédéric Chopin
+Napoleon Bonaparte
+Julius Caesar
+Cleopatra
+Alexander the Great
+Genghis Khan
+Christopher Columbus
+Marco Polo
+Joan of Arc
+Skanderbeg
+Queen Victoria
+Queen Elizabeth II
+Winston Churchill
+Abraham Lincoln
+George Washington
+Martin Luther King Jr.
+Rosa Parks
+Nelson Mandela
+Mahatma Gandhi
+Mother Teresa
+Malala Yousafzai
+Anne Frank
+Che Guevara
+Barack Obama
+Amelia Earhart
+Neil Armstrong
+Yuri Gagarin
+Jacques Cousteau
+David Attenborough
+Jane Goodall
+Steve Jobs
+Bill Gates
+Elon Musk
+Walt Disney
+Alfred Hitchcock
+Steven Spielberg
+Quentin Tarantino
+Charlie Chaplin
+Marilyn Monroe
+Audrey Hepburn
+Leonardo DiCaprio
+Tom Hanks
+Meryl Streep
+Denzel Washington
+Morgan Freeman
+Robert De Niro
+Al Pacino
+Keanu Reeves
+Dwayne Johnson
+Jackie Chan
+Bruce Lee
+Angelina Jolie
+Brad Pitt
+Will Smith
+Jennifer Lawrence
+Emma Watson
+Zendaya
+Oprah Winfrey
+Ellen DeGeneres
+Gordon Ramsay
+Muhammad Ali
+Michael Jordan
+Serena Williams
+Roger Federer
+Usain Bolt
+Lionel Messi
+Cristiano Ronaldo
+Diego Maradona
+Pelé
+Michael Phelps
+Lewis Hamilton
+Michael Schumacher
+Elvis Presley
+Michael Jackson
+Freddie Mercury
+John Lennon
+Bob Marley
+Madonna
+Beyoncé
+Taylor Swift
+Adele
+Rihanna
+Lady Gaga
+Ed Sheeran
+Dua Lipa
+Rita Ora

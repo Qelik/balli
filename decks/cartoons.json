@@ -1,0 +1,309 @@
+{
+  "id": "cartoons",
+  "name": "Cartoons",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "4035a73a",
+  "cards": [
+    {
+      "t": "SpongeBob SquarePants"
+    },
+    {
+      "t": "Tom and Jerry"
+    },
+    {
+      "t": "Scooby-Doo"
+    },
+    {
+      "t": "Looney Tunes"
+    },
+    {
+      "t": "Bugs Bunny"
+    },
+    {
+      "t": "Mickey Mouse"
+    },
+    {
+      "t": "Donald Duck"
+    },
+    {
+      "t": "Goofy"
+    },
+    {
+      "t": "Popeye"
+    },
+    {
+      "t": "The Flintstones"
+    },
+    {
+      "t": "The Jetsons"
+    },
+    {
+      "t": "Pink Panther"
+    },
+    {
+      "t": "Road Runner"
+    },
+    {
+      "t": "Wile E. Coyote"
+    },
+    {
+      "t": "Woody Woodpecker"
+    },
+    {
+      "t": "Dexter's Laboratory"
+    },
+    {
+      "t": "The Powerpuff Girls"
+    },
+    {
+      "t": "Johnny Bravo"
+    },
+    {
+      "t": "Courage the Cowardly Dog"
+    },
+    {
+      "t": "Ed, Edd n Eddy"
+    },
+    {
+      "t": "Adventure Time"
+    },
+    {
+      "t": "Regular Show"
+    },
+    {
+      "t": "Gravity Falls"
+    },
+    {
+      "t": "Phineas and Ferb"
+    },
+    {
+      "t": "Kim Possible"
+    },
+    {
+      "t": "Recess"
+    },
+    {
+      "t": "Hey Arnold!"
+    },
+    {
+      "t": "Rugrats"
+    },
+    {
+      "t": "The Wild Thornberrys"
+    },
+    {
+      "t": "Danny Phantom"
+    },
+    {
+      "t": "Avatar: The Last Airbender"
+    },
+    {
+      "t": "Teen Titans"
+    },
+    {
+      "t": "Ben 10"
+    },
+    {
+      "t": "Samurai Jack"
+    },
+    {
+      "t": "Steven Universe"
+    },
+    {
+      "t": "The Amazing World of Gumball"
+    },
+    {
+      "t": "Pokémon"
+    },
+    {
+      "t": "Digimon"
+    },
+    {
+      "t": "Dragon Ball Z"
+    },
+    {
+      "t": "Naruto"
+    },
+    {
+      "t": "One Piece"
+    },
+    {
+      "t": "Sailor Moon"
+    },
+    {
+      "t": "Studio Ghibli"
+    },
+    {
+      "t": "My Neighbour Totoro"
+    },
+    {
+      "t": "Howl's Moving Castle"
+    },
+    {
+      "t": "Toy Story"
+    },
+    {
+      "t": "Finding Nemo"
+    },
+    {
+      "t": "Monsters, Inc."
+    },
+    {
+      "t": "The Incredibles"
+    },
+    {
+      "t": "Up"
+    },
+    {
+      "t": "Inside Out"
+    },
+    {
+      "t": "Coco"
+    },
+    {
+      "t": "Moana"
+    },
+    {
+      "t": "Frozen"
+    },
+    {
+      "t": "Tangled"
+    },
+    {
+      "t": "Encanto"
+    },
+    {
+      "t": "Zootopia"
+    },
+    {
+      "t": "Big Hero 6"
+    },
+    {
+      "t": "Wreck-It Ralph"
+    },
+    {
+      "t": "The Lion King"
+    },
+    {
+      "t": "Aladdin"
+    },
+    {
+      "t": "Beauty and the Beast"
+    },
+    {
+      "t": "The Little Mermaid"
+    },
+    {
+      "t": "Cinderella"
+    },
+    {
+      "t": "Snow White"
+    },
+    {
+      "t": "Sleeping Beauty"
+    },
+    {
+      "t": "Peter Pan"
+    },
+    {
+      "t": "Pinocchio"
+    },
+    {
+      "t": "Bambi"
+    },
+    {
+      "t": "Dumbo"
+    },
+    {
+      "t": "101 Dalmatians"
+    },
+    {
+      "t": "The Jungle Book"
+    },
+    {
+      "t": "Mulan"
+    },
+    {
+      "t": "Hercules"
+    },
+    {
+      "t": "Tarzan"
+    },
+    {
+      "t": "Lilo & Stitch"
+    },
+    {
+      "t": "Shrek"
+    },
+    {
+      "t": "Madagascar"
+    },
+    {
+      "t": "Kung Fu Panda"
+    },
+    {
+      "t": "How to Train Your Dragon"
+    },
+    {
+      "t": "Despicable Me"
+    },
+    {
+      "t": "Minions"
+    },
+    {
+      "t": "The Croods"
+    },
+    {
+      "t": "Rio"
+    },
+    {
+      "t": "Ice Age"
+    },
+    {
+      "t": "Happy Feet"
+    },
+    {
+      "t": "Chicken Run"
+    },
+    {
+      "t": "Wallace & Gromit"
+    },
+    {
+      "t": "Paw Patrol"
+    },
+    {
+      "t": "Peppa Pig"
+    },
+    {
+      "t": "Teletubbies"
+    },
+    {
+      "t": "Thomas the Tank Engine"
+    },
+    {
+      "t": "Postman Pat"
+    },
+    {
+      "t": "Winnie the Pooh"
+    },
+    {
+      "t": "Paddington"
+    },
+    {
+      "t": "The Smurfs"
+    },
+    {
+      "t": "Asterix"
+    },
+    {
+      "t": "Tintin"
+    },
+    {
+      "t": "Garfield"
+    },
+    {
+      "t": "Snoopy"
+    }
+  ]
+}

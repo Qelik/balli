@@ -1,0 +1,136 @@
+name: Countries
+lang: en
+category: World
+emoji: 🌍
+---
+Albania
+Kosovo
+North Macedonia
+Montenegro
+Serbia
+Croatia
+Bosnia and Herzegovina
+Slovenia
+Greece
+Italy
+Spain
+Portugal
+France
+Germany
+Austria
+Switzerland
+Belgium
+Netherlands
+Luxembourg
+Denmark
+Sweden
+Norway
+Finland
+Iceland
+Ireland
+United Kingdom
+Scotland
+Wales
+Poland
+Czechia
+Slovakia
+Hungary
+Romania
+Bulgaria
+Ukraine
+Belarus
+Russia
+Estonia
+Latvia
+Lithuania
+Turkey
+Cyprus
+Malta
+Georgia
+Armenia
+Azerbaijan
+Kazakhstan
+Uzbekistan
+Afghanistan
+Pakistan
+India
+Nepal
+Bhutan
+Bangladesh
+Sri Lanka
+China
+Mongolia
+Japan
+South Korea
+North Korea
+Taiwan
+Vietnam
+Thailand
+Cambodia
+Laos
+Myanmar
+Malaysia
+Singapore
+Indonesia
+Philippines
+Australia
+New Zealand
+Fiji
+Papua New Guinea
+Egypt
+Morocco
+Algeria
+Tunisia
+Libya
+Sudan
+Ethiopia
+Kenya
+Tanzania
+Uganda
+Rwanda
+Nigeria
+Ghana
+Senegal
+Ivory Coast
+Cameroon
+Congo
+Angola
+Zambia
+Zimbabwe
+Botswana
+Namibia
+South Africa
+Madagascar
+Mauritius
+Israel
+Lebanon
+Syria
+Jordan
+Iraq
+Iran
+Saudi Arabia
+United Arab Emirates
+Qatar
+Kuwait
+Oman
+Yemen
+United States
+Canada
+Mexico
+Cuba
+Jamaica
+Haiti
+Dominican Republic
+Guatemala
+Costa Rica
+Panama
+Colombia
+Venezuela
+Ecuador
+Peru
+Bolivia
+Brazil
+Chile
+Argentina
+Uruguay
+Paraguay

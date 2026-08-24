@@ -1,0 +1,184 @@
+{
+  "decks": [
+    {
+      "id": "films-2000s",
+      "name": "Films of the 2000s",
+      "lang": "en",
+      "category": "Screen",
+      "emoji": "🎬",
+      "count": 100,
+      "version": "a32b45fc"
+    },
+    {
+      "id": "tv-shows",
+      "name": "TV Shows",
+      "lang": "en",
+      "category": "Screen",
+      "emoji": "📺",
+      "count": 101,
+      "version": "0ca2c7ee"
+    },
+    {
+      "id": "cartoons",
+      "name": "Cartoons",
+      "lang": "en",
+      "category": "Screen",
+      "emoji": "🧸",
+      "count": 100,
+      "version": "4035a73a"
+    },
+    {
+      "id": "video-games",
+      "name": "Video Games",
+      "lang": "en",
+      "category": "Screen",
+      "emoji": "🎮",
+      "count": 117,
+      "version": "df6e83c8"
+    },
+    {
+      "id": "superheroes",
+      "name": "Superheroes",
+      "lang": "en",
+      "category": "Screen",
+      "emoji": "🦸",
+      "count": 108,
+      "version": "564ddedc"
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "lang": "en",
+      "category": "Nature",
+      "emoji": "🐘",
+      "count": 112,
+      "version": "b7d10fec"
+    },
+    {
+      "id": "food-drink",
+      "name": "Food & Drink",
+      "lang": "en",
+      "category": "Everyday",
+      "emoji": "🍕",
+      "count": 125,
+      "version": "a8c08f57"
+    },
+    {
+      "id": "around-the-house",
+      "name": "Around the House",
+      "lang": "en",
+      "category": "Everyday",
+      "emoji": "🏠",
+      "count": 140,
+      "version": "2d50fabc"
+    },
+    {
+      "id": "jobs",
+      "name": "Jobs",
+      "lang": "en",
+      "category": "Everyday",
+      "emoji": "👷",
+      "count": 116,
+      "version": "08e73474"
+    },
+    {
+      "id": "act-it-out",
+      "name": "Act It Out",
+      "lang": "en",
+      "category": "Everyday",
+      "emoji": "🤸",
+      "count": 142,
+      "version": "70ada0e3"
+    },
+    {
+      "id": "countries",
+      "name": "Countries",
+      "lang": "en",
+      "category": "World",
+      "emoji": "🌍",
+      "count": 131,
+      "version": "b27da4c6"
+    },
+    {
+      "id": "landmarks",
+      "name": "Landmarks",
+      "lang": "en",
+      "category": "World",
+      "emoji": "🗼",
+      "count": 104,
+      "version": "aa524f86"
+    },
+    {
+      "id": "famous-people",
+      "name": "Famous People",
+      "lang": "en",
+      "category": "People",
+      "emoji": "🌟",
+      "count": 116,
+      "version": "dd25c1b0"
+    },
+    {
+      "id": "music-acts",
+      "name": "Bands & Singers",
+      "lang": "en",
+      "category": "People",
+      "emoji": "🎤",
+      "count": 115,
+      "version": "95d7c695"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "lang": "en",
+      "category": "People",
+      "emoji": "⚽",
+      "count": 112,
+      "version": "2a987eeb"
+    },
+    {
+      "id": "sq-kafshe",
+      "name": "Kafshë",
+      "lang": "sq",
+      "category": "Natyrë",
+      "emoji": "🦊",
+      "count": 100,
+      "version": "99292491"
+    },
+    {
+      "id": "sq-ushqime",
+      "name": "Ushqime dhe pije",
+      "lang": "sq",
+      "category": "Përditshme",
+      "emoji": "🍲",
+      "count": 103,
+      "version": "19cd525a"
+    },
+    {
+      "id": "sq-profesione",
+      "name": "Profesione",
+      "lang": "sq",
+      "category": "Përditshme",
+      "emoji": "🧑‍🔧",
+      "count": 98,
+      "version": "5d1e5b1c"
+    },
+    {
+      "id": "sq-vende",
+      "name": "Vende dhe qytete",
+      "lang": "sq",
+      "category": "Bota",
+      "emoji": "🏔️",
+      "count": 107,
+      "version": "516e2316"
+    },
+    {
+      "id": "sq-figura",
+      "name": "Figura shqiptare",
+      "lang": "sq",
+      "category": "Njerëz",
+      "emoji": "🇦🇱",
+      "count": 84,
+      "version": "952f03ef"
+    }
+  ]
+}

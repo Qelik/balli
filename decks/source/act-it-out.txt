@@ -1,0 +1,147 @@
+name: Act It Out
+lang: en
+category: Everyday
+emoji: 🤸
+---
+Sneezing
+Yawning
+Snoring
+Laughing
+Crying
+Shivering
+Sweating
+Blushing
+Winking
+Whistling
+Clapping
+Waving
+Pointing
+Shrugging
+Nodding
+Tiptoeing
+Limping
+Skipping
+Jogging
+Sprinting
+Swimming
+Diving
+Climbing
+Crawling
+Juggling
+Dancing
+Spinning
+Jumping
+Stretching
+Push-ups
+Sit-ups
+Lifting weights
+Skipping rope
+Riding a bike
+Riding a horse
+Driving a car
+Parallel parking
+Hitchhiking
+Rowing a boat
+Paddling
+Surfing
+Skiing
+Ice skating
+Skateboarding
+Playing football
+Scoring a goal
+Shooting a basketball
+Serving a tennis ball
+Swinging a golf club
+Bowling
+Fishing
+Archery
+Boxing
+Wrestling
+Fencing
+Karate chop
+Playing guitar
+Playing piano
+Playing drums
+Playing violin
+Playing trumpet
+Conducting an orchestra
+Singing karaoke
+Taking a selfie
+Texting
+Typing
+Answering the phone
+Reading a book
+Writing a letter
+Painting a picture
+Taking a photo
+Watching television
+Changing the channel
+Playing video games
+Shuffling cards
+Rolling dice
+Blowing out candles
+Opening a present
+Wrapping a gift
+Tying shoelaces
+Buttoning a shirt
+Zipping a jacket
+Putting on gloves
+Brushing teeth
+Washing hands
+Taking a shower
+Shaving
+Combing hair
+Applying lipstick
+Cutting hair
+Painting nails
+Cooking dinner
+Chopping onions
+Flipping a pancake
+Stirring a pot
+Washing dishes
+Sweeping the floor
+Vacuuming
+Mopping
+Making the bed
+Folding laundry
+Ironing a shirt
+Hanging a picture
+Hammering a nail
+Sawing wood
+Painting a wall
+Changing a light bulb
+Watering plants
+Mowing the lawn
+Raking leaves
+Shovelling snow
+Walking the dog
+Feeding a baby
+Rocking a baby
+Changing a nappy
+Carrying shopping
+Pushing a trolley
+Paying at a till
+Waiting in a queue
+Missing the bus
+Hailing a taxi
+Boarding a plane
+Fastening a seatbelt
+Checking a map
+Getting lost
+Sleeping
+Waking up
+Hitting snooze
+Falling over
+Slipping on ice
+Being tickled
+Being scared
+Being freezing cold
+Being boiling hot
+Eating something spicy
+Eating something sour
+Drinking through a straw
+Blowing a bubble
+Sneaking around
+Tiptoeing past a guard
+Miming a wall
+Miming a rope
