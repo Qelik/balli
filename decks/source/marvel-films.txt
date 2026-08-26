@@ -1,0 +1,98 @@
+name: Marvel Films & Shows
+lang: en
+category: Marvel
+emoji: 🎞️
+---
+Iron Man
+The Incredible Hulk
+Iron Man 2
+Thor
+Captain America: The First Avenger
+The Avengers
+Iron Man 3
+Thor: The Dark World
+Captain America: The Winter Soldier
+Guardians of the Galaxy
+Avengers: Age of Ultron
+Ant-Man
+Captain America: Civil War
+Doctor Strange
+Guardians of the Galaxy Vol. 2
+Spider-Man: Homecoming
+Thor: Ragnarok
+Black Panther
+Avengers: Infinity War
+Ant-Man and the Wasp
+Captain Marvel
+Avengers: Endgame
+Spider-Man: Far From Home
+Black Widow
+Shang-Chi and the Legend of the Ten Rings
+Eternals
+Spider-Man: No Way Home
+Doctor Strange in the Multiverse of Madness
+Thor: Love and Thunder
+Black Panther: Wakanda Forever
+Ant-Man and the Wasp: Quantumania
+Guardians of the Galaxy Vol. 3
+The Marvels
+Deadpool & Wolverine
+Captain America: Brave New World
+Thunderbolts
+The Fantastic Four: First Steps
+WandaVision
+The Falcon and the Winter Soldier
+Loki
+What If...?
+Hawkeye
+Moon Knight
+Ms. Marvel
+She-Hulk: Attorney at Law
+Secret Invasion
+Echo
+Agatha All Along
+Daredevil: Born Again
+Ironheart
+Agents of S.H.I.E.L.D.
+Agent Carter
+Jessica Jones
+Luke Cage
+Iron Fist
+The Defenders
+The Punisher
+X-Men
+X2
+X-Men: The Last Stand
+X-Men Origins: Wolverine
+X-Men: First Class
+The Wolverine
+X-Men: Days of Future Past
+X-Men: Apocalypse
+Logan
+Dark Phoenix
+The New Mutants
+Deadpool
+Deadpool 2
+Spider-Man | film, 2002
+Spider-Man 2
+Spider-Man 3
+The Amazing Spider-Man
+The Amazing Spider-Man 2
+Spider-Man: Into the Spider-Verse
+Spider-Man: Across the Spider-Verse
+Venom
+Venom: Let There Be Carnage
+Venom: The Last Dance
+Morbius
+Madame Web
+Kraven the Hunter
+Fantastic Four | film, 2005
+Fantastic Four: Rise of the Silver Surfer
+Blade | film, 1998
+Blade II
+Blade: Trinity
+Ghost Rider
+Ghost Rider: Spirit of Vengeance
+Elektra
+Daredevil | film, 2003
+Hulk | film, 2003

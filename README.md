@@ -7,7 +7,7 @@ score, tilt up to pass, until the clock runs out.
 naming question in the spec is settled — it appears in `index.html`,
 `manifest.webmanifest`, `package.json` and the `CACHE` name in `sw.js`.
 
-**Status: phase 1, plus the deck picker.** 20 decks, the timer, the tilt state
+**Status: phase 1, plus the deck picker.** 22 decks, the timer, the tilt state
 machine, the bag shuffle, a deck grid grouped by language and category, and a
 second added to the clock for every card the room gets. Still missing from
 phases 2–5: team scoring, the TMDB/Wikidata generator and its cron, custom
@@ -49,7 +49,7 @@ TypeScript source because the browser resolves them literally.
 
 ## Decks
 
-20 decks, 2,231 cards, English and Albanian. Nothing here is fetched at play
+22 decks, 2,449 cards, English and Albanian. Nothing here is fetched at play
 time — decks are compiled and committed, so the game works with the wifi off.
 
 Add one by dropping a file into `decks/source/` and running `npm run decks`:
@@ -117,7 +117,7 @@ rounds re-take the rest reading only.
 npm test
 ```
 
-22 tests, all with controlled time — a stubbed `performance.now()` and a
+24 tests, all with controlled time — a stubbed `performance.now()` and a
 hand-pumped `requestAnimationFrame` — so the sensor and clock logic is checked
 properly rather than slept through.
 
@@ -133,6 +133,8 @@ properly rather than slept through.
   a 12Hz sensor without falling through to the rest timeout; and a holder who
   cannot keep still still gets released by that timeout.
 
+- **Bag edge cases** — a bag whose order has outrun its deck still deals rather
+  than giving up, and an empty deck returns null instead of spinning.
 - **Clock** — a correct answer really adds a second, the progress bar never
   overflows its track however much time is added, bonus time genuinely
   lengthens the round, time added after the clock runs out is ignored, and each

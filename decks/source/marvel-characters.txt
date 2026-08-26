@@ -1,0 +1,130 @@
+name: Marvel Characters
+lang: en
+category: Marvel
+emoji: 🕸️
+---
+Iron Man
+Captain America
+Thor
+Hulk
+Black Widow
+Hawkeye
+Spider-Man
+Doctor Strange
+Black Panther
+Ant-Man
+The Wasp
+Captain Marvel
+Scarlet Witch
+Vision
+Falcon
+Winter Soldier
+War Machine
+Star-Lord
+Gamora
+Drax
+Rocket Raccoon
+Groot
+Mantis
+Nebula
+Yondu
+Shang-Chi
+Ms. Marvel
+She-Hulk
+Moon Knight
+Daredevil
+Jessica Jones
+Luke Cage
+Iron Fist
+The Punisher
+Blade
+Ghost Rider
+Silver Surfer
+Namor
+Miles Morales
+Spider-Gwen
+Kate Bishop
+America Chavez
+Ironheart
+Squirrel Girl
+Wolverine
+Storm
+Cyclops
+Jean Grey
+Beast
+Nightcrawler
+Rogue
+Gambit
+Iceman
+Colossus
+Kitty Pryde
+Professor X
+Deadpool
+Cable
+Domino
+Psylocke
+Jubilee
+Mister Fantastic
+Invisible Woman
+Human Torch
+The Thing
+Thanos
+Loki
+Ultron
+Red Skull
+Green Goblin
+Doctor Octopus
+Venom
+Carnage
+Mysterio
+Vulture
+Sandman
+Electro
+Kraven the Hunter
+Kingpin
+Bullseye
+Magneto
+Mystique
+Sabretooth
+Juggernaut
+Apocalypse
+Dark Phoenix
+Galactus
+Doctor Doom
+Kang the Conqueror
+Hela
+Ronan the Accuser
+Killmonger
+Abomination
+Taskmaster
+Baron Zemo
+Agatha Harkness
+Dormammu
+Ebony Maw
+MODOK
+Whiplash
+Iron Monger
+High Evolutionary
+Gorr the God Butcher
+Nick Fury
+Maria Hill
+Phil Coulson
+Pepper Potts
+Happy Hogan
+J.A.R.V.I.S.
+Aunt May
+Uncle Ben
+Mary Jane Watson
+Gwen Stacy
+J. Jonah Jameson
+Peggy Carter
+Shuri
+Okoye
+M'Baku
+Valkyrie
+Heimdall
+Odin
+Korg
+Wong
+Jane Foster
+Howard the Duck

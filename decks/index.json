@@ -46,6 +46,24 @@
       "version": "564ddedc"
     },
     {
+      "id": "marvel-characters",
+      "name": "Marvel Characters",
+      "lang": "en",
+      "category": "Marvel",
+      "emoji": "🕸️",
+      "count": 125,
+      "version": "abfbeb18"
+    },
+    {
+      "id": "marvel-films",
+      "name": "Marvel Films & Shows",
+      "lang": "en",
+      "category": "Marvel",
+      "emoji": "🎞️",
+      "count": 93,
+      "version": "7e9cd26b"
+    },
+    {
       "id": "animals",
       "name": "Animals",
       "lang": "en",

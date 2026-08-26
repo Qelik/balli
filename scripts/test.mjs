@@ -451,3 +451,24 @@ test("the clock crosses each whole second exactly once", () => {
     assert.equal(count, 1, `second ${whole} was announced ${count} times`);
   }
 });
+
+test("a bag whose order has outrun the deck still deals", () => {
+  store.clear();
+  const deck = deckOf(20);
+  const bag = loadBag(deck);
+  // Every remaining entry points past the end of the deck — what a truncated
+  // or mismatched deck would leave behind.
+  bag.order = [99, 98, 97];
+  bag.cursor = 0;
+  bag.seen = [];
+  const card = draw(bag, deck);
+  assert.ok(card, "draw gave up instead of reshuffling past the stale entries");
+  assert.ok(deck.cards.some((c) => c.t === card.t));
+});
+
+test("draw returns null for an empty deck instead of spinning", () => {
+  store.clear();
+  const empty = deckOf(0);
+  const bag = loadBag(empty);
+  assert.equal(draw(bag, empty), null);
+});

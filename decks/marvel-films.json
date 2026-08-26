@@ -1,0 +1,293 @@
+{
+  "id": "marvel-films",
+  "name": "Marvel Films & Shows",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "7e9cd26b",
+  "cards": [
+    {
+      "t": "Iron Man"
+    },
+    {
+      "t": "The Incredible Hulk"
+    },
+    {
+      "t": "Iron Man 2"
+    },
+    {
+      "t": "Thor"
+    },
+    {
+      "t": "Captain America: The First Avenger"
+    },
+    {
+      "t": "The Avengers"
+    },
+    {
+      "t": "Iron Man 3"
+    },
+    {
+      "t": "Thor: The Dark World"
+    },
+    {
+      "t": "Captain America: The Winter Soldier"
+    },
+    {
+      "t": "Guardians of the Galaxy"
+    },
+    {
+      "t": "Avengers: Age of Ultron"
+    },
+    {
+      "t": "Ant-Man"
+    },
+    {
+      "t": "Captain America: Civil War"
+    },
+    {
+      "t": "Doctor Strange"
+    },
+    {
+      "t": "Guardians of the Galaxy Vol. 2"
+    },
+    {
+      "t": "Spider-Man: Homecoming"
+    },
+    {
+      "t": "Thor: Ragnarok"
+    },
+    {
+      "t": "Black Panther"
+    },
+    {
+      "t": "Avengers: Infinity War"
+    },
+    {
+      "t": "Ant-Man and the Wasp"
+    },
+    {
+      "t": "Captain Marvel"
+    },
+    {
+      "t": "Avengers: Endgame"
+    },
+    {
+      "t": "Spider-Man: Far From Home"
+    },
+    {
+      "t": "Black Widow"
+    },
+    {
+      "t": "Shang-Chi and the Legend of the Ten Rings"
+    },
+    {
+      "t": "Eternals"
+    },
+    {
+      "t": "Spider-Man: No Way Home"
+    },
+    {
+      "t": "Doctor Strange in the Multiverse of Madness"
+    },
+    {
+      "t": "Thor: Love and Thunder"
+    },
+    {
+      "t": "Black Panther: Wakanda Forever"
+    },
+    {
+      "t": "Ant-Man and the Wasp: Quantumania"
+    },
+    {
+      "t": "Guardians of the Galaxy Vol. 3"
+    },
+    {
+      "t": "The Marvels"
+    },
+    {
+      "t": "Deadpool & Wolverine"
+    },
+    {
+      "t": "Captain America: Brave New World"
+    },
+    {
+      "t": "Thunderbolts"
+    },
+    {
+      "t": "The Fantastic Four: First Steps"
+    },
+    {
+      "t": "WandaVision"
+    },
+    {
+      "t": "The Falcon and the Winter Soldier"
+    },
+    {
+      "t": "Loki"
+    },
+    {
+      "t": "What If...?"
+    },
+    {
+      "t": "Hawkeye"
+    },
+    {
+      "t": "Moon Knight"
+    },
+    {
+      "t": "Ms. Marvel"
+    },
+    {
+      "t": "She-Hulk: Attorney at Law"
+    },
+    {
+      "t": "Secret Invasion"
+    },
+    {
+      "t": "Echo"
+    },
+    {
+      "t": "Agatha All Along"
+    },
+    {
+      "t": "Daredevil: Born Again"
+    },
+    {
+      "t": "Ironheart"
+    },
+    {
+      "t": "Agents of S.H.I.E.L.D."
+    },
+    {
+      "t": "Agent Carter"
+    },
+    {
+      "t": "Jessica Jones"
+    },
+    {
+      "t": "Luke Cage"
+    },
+    {
+      "t": "Iron Fist"
+    },
+    {
+      "t": "The Defenders"
+    },
+    {
+      "t": "The Punisher"
+    },
+    {
+      "t": "X-Men"
+    },
+    {
+      "t": "X2"
+    },
+    {
+      "t": "X-Men: The Last Stand"
+    },
+    {
+      "t": "X-Men Origins: Wolverine"
+    },
+    {
+      "t": "X-Men: First Class"
+    },
+    {
+      "t": "The Wolverine"
+    },
+    {
+      "t": "X-Men: Days of Future Past"
+    },
+    {
+      "t": "X-Men: Apocalypse"
+    },
+    {
+      "t": "Logan"
+    },
+    {
+      "t": "Dark Phoenix"
+    },
+    {
+      "t": "The New Mutants"
+    },
+    {
+      "t": "Deadpool"
+    },
+    {
+      "t": "Deadpool 2"
+    },
+    {
+      "t": "Spider-Man",
+      "hint": "film, 2002"
+    },
+    {
+      "t": "Spider-Man 2"
+    },
+    {
+      "t": "Spider-Man 3"
+    },
+    {
+      "t": "The Amazing Spider-Man"
+    },
+    {
+      "t": "The Amazing Spider-Man 2"
+    },
+    {
+      "t": "Spider-Man: Into the Spider-Verse"
+    },
+    {
+      "t": "Spider-Man: Across the Spider-Verse"
+    },
+    {
+      "t": "Venom"
+    },
+    {
+      "t": "Venom: Let There Be Carnage"
+    },
+    {
+      "t": "Venom: The Last Dance"
+    },
+    {
+      "t": "Morbius"
+    },
+    {
+      "t": "Madame Web"
+    },
+    {
+      "t": "Kraven the Hunter"
+    },
+    {
+      "t": "Fantastic Four",
+      "hint": "film, 2005"
+    },
+    {
+      "t": "Fantastic Four: Rise of the Silver Surfer"
+    },
+    {
+      "t": "Blade",
+      "hint": "film, 1998"
+    },
+    {
+      "t": "Blade II"
+    },
+    {
+      "t": "Blade: Trinity"
+    },
+    {
+      "t": "Ghost Rider"
+    },
+    {
+      "t": "Ghost Rider: Spirit of Vengeance"
+    },
+    {
+      "t": "Elektra"
+    },
+    {
+      "t": "Daredevil",
+      "hint": "film, 2003"
+    },
+    {
+      "t": "Hulk",
+      "hint": "film, 2003"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "id": "marvel-characters",
+  "name": "Marvel Characters",
+  "lang": "en",
+  "source": "handwritten",
+  "version": "abfbeb18",
+  "cards": [
+    {
+      "t": "Iron Man"
+    },
+    {
+      "t": "Captain America"
+    },
+    {
+      "t": "Thor"
+    },
+    {
+      "t": "Hulk"
+    },
+    {
+      "t": "Black Widow"
+    },
+    {
+      "t": "Hawkeye"
+    },
+    {
+      "t": "Spider-Man"
+    },
+    {
+      "t": "Doctor Strange"
+    },
+    {
+      "t": "Black Panther"
+    },
+    {
+      "t": "Ant-Man"
+    },
+    {
+      "t": "The Wasp"
+    },
+    {
+      "t": "Captain Marvel"
+    },
+    {
+      "t": "Scarlet Witch"
+    },
+    {
+      "t": "Vision"
+    },
+    {
+      "t": "Falcon"
+    },
+    {
+      "t": "Winter Soldier"
+    },
+    {
+      "t": "War Machine"
+    },
+    {
+      "t": "Star-Lord"
+    },
+    {
+      "t": "Gamora"
+    },
+    {
+      "t": "Drax"
+    },
+    {
+      "t": "Rocket Raccoon"
+    },
+    {
+      "t": "Groot"
+    },
+    {
+      "t": "Mantis"
+    },
+    {
+      "t": "Nebula"
+    },
+    {
+      "t": "Yondu"
+    },
+    {
+      "t": "Shang-Chi"
+    },
+    {
+      "t": "Ms. Marvel"
+    },
+    {
+      "t": "She-Hulk"
+    },
+    {
+      "t": "Moon Knight"
+    },
+    {
+      "t": "Daredevil"
+    },
+    {
+      "t": "Jessica Jones"
+    },
+    {
+      "t": "Luke Cage"
+    },
+    {
+      "t": "Iron Fist"
+    },
+    {
+      "t": "The Punisher"
+    },
+    {
+      "t": "Blade"
+    },
+    {
+      "t": "Ghost Rider"
+    },
+    {
+      "t": "Silver Surfer"
+    },
+    {
+      "t": "Namor"
+    },
+    {
+      "t": "Miles Morales"
+    },
+    {
+      "t": "Spider-Gwen"
+    },
+    {
+      "t": "Kate Bishop"
+    },
+    {
+      "t": "America Chavez"
+    },
+    {
+      "t": "Ironheart"
+    },
+    {
+      "t": "Squirrel Girl"
+    },
+    {
+      "t": "Wolverine"
+    },
+    {
+      "t": "Storm"
+    },
+    {
+      "t": "Cyclops"
+    },
+    {
+      "t": "Jean Grey"
+    },
+    {
+      "t": "Beast"
+    },
+    {
+      "t": "Nightcrawler"
+    },
+    {
+      "t": "Rogue"
+    },
+    {
+      "t": "Gambit"
+    },
+    {
+      "t": "Iceman"
+    },
+    {
+      "t": "Colossus"
+    },
+    {
+      "t": "Kitty Pryde"
+    },
+    {
+      "t": "Professor X"
+    },
+    {
+      "t": "Deadpool"
+    },
+    {
+      "t": "Cable"
+    },
+    {
+      "t": "Domino"
+    },
+    {
+      "t": "Psylocke"
+    },
+    {
+      "t": "Jubilee"
+    },
+    {
+      "t": "Mister Fantastic"
+    },
+    {
+      "t": "Invisible Woman"
+    },
+    {
+      "t": "Human Torch"
+    },
+    {
+      "t": "The Thing"
+    },
+    {
+      "t": "Thanos"
+    },
+    {
+      "t": "Loki"
+    },
+    {
+      "t": "Ultron"
+    },
+    {
+      "t": "Red Skull"
+    },
+    {
+      "t": "Green Goblin"
+    },
+    {
+      "t": "Doctor Octopus"
+    },
+    {
+      "t": "Venom"
+    },
+    {
+      "t": "Carnage"
+    },
+    {
+      "t": "Mysterio"
+    },
+    {
+      "t": "Vulture"
+    },
+    {
+      "t": "Sandman"
+    },
+    {
+      "t": "Electro"
+    },
+    {
+      "t": "Kraven the Hunter"
+    },
+    {
+      "t": "Kingpin"
+    },
+    {
+      "t": "Bullseye"
+    },
+    {
+      "t": "Magneto"
+    },
+    {
+      "t": "Mystique"
+    },
+    {
+      "t": "Sabretooth"
+    },
+    {
+      "t": "Juggernaut"
+    },
+    {
+      "t": "Apocalypse"
+    },
+    {
+      "t": "Dark Phoenix"
+    },
+    {
+      "t": "Galactus"
+    },
+    {
+      "t": "Doctor Doom"
+    },
+    {
+      "t": "Kang the Conqueror"
+    },
+    {
+      "t": "Hela"
+    },
+    {
+      "t": "Ronan the Accuser"
+    },
+    {
+      "t": "Killmonger"
+    },
+    {
+      "t": "Abomination"
+    },
+    {
+      "t": "Taskmaster"
+    },
+    {
+      "t": "Baron Zemo"
+    },
+    {
+      "t": "Agatha Harkness"
+    },
+    {
+      "t": "Dormammu"
+    },
+    {
+      "t": "Ebony Maw"
+    },
+    {
+      "t": "MODOK"
+    },
+    {
+      "t": "Whiplash"
+    },
+    {
+      "t": "Iron Monger"
+    },
+    {
+      "t": "High Evolutionary"
+    },
+    {
+      "t": "Gorr the God Butcher"
+    },
+    {
+      "t": "Nick Fury"
+    },
+    {
+      "t": "Maria Hill"
+    },
+    {
+      "t": "Phil Coulson"
+    },
+    {
+      "t": "Pepper Potts"
+    },
+    {
+      "t": "Happy Hogan"
+    },
+    {
+      "t": "J.A.R.V.I.S."
+    },
+    {
+      "t": "Aunt May"
+    },
+    {
+      "t": "Uncle Ben"
+    },
+    {
+      "t": "Mary Jane Watson"
+    },
+    {
+      "t": "Gwen Stacy"
+    },
+    {
+      "t": "J. Jonah Jameson"
+    },
+    {
+      "t": "Peggy Carter"
+    },
+    {
+      "t": "Shuri"
+    },
+    {
+      "t": "Okoye"
+    },
+    {
+      "t": "M'Baku"
+    },
+    {
+      "t": "Valkyrie"
+    },
+    {
+      "t": "Heimdall"
+    },
+    {
+      "t": "Odin"
+    },
+    {
+      "t": "Korg"
+    },
+    {
+      "t": "Wong"
+    },
+    {
+      "t": "Jane Foster"
+    },
+    {
+      "t": "Howard the Duck"
+    }
+  ]
+}

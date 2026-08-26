@@ -153,18 +153,27 @@ export function peekSeenCount(deckId: string): number {
 export function draw(bag: BagState, deck: Deck): Card | null {
   if (deck.cards.length === 0) return null;
 
-  if (bag.cursor >= bag.order.length) {
-    // Bag exhausted: every card has been seen. Start a new cycle.
-    bag.seen = [];
-    bag.order = freshOrder(deck, new Set());
-    bag.cursor = 0;
-    if (bag.order.length === 0) return null;
-  }
+  // Two attempts: walk what is left of the current order, then — if the bag ran
+  // out, or every entry left in it was stale — one reshuffled pass. Bounded on
+  // purpose; this cannot be allowed to fail in the middle of a round.
+  for (let attempt = 0; attempt < 2; attempt++) {
+    if (bag.cursor >= bag.order.length) {
+      // Bag exhausted: every card has been seen. Start a new cycle.
+      bag.seen = [];
+      bag.order = freshOrder(deck, new Set());
+      bag.cursor = 0;
+      if (bag.order.length === 0) return null;
+    }
 
-  const index = bag.order[bag.cursor] as number;
-  const card = deck.cards[index];
-  bag.cursor += 1;
-  if (!card) return draw(bag, deck);
-  bag.seen.push(card.t);
-  return card;
+    while (bag.cursor < bag.order.length) {
+      const index = bag.order[bag.cursor] as number;
+      const card = deck.cards[index];
+      bag.cursor += 1;
+      if (card) {
+        bag.seen.push(card.t);
+        return card;
+      }
+    }
+  }
+  return null;
 }

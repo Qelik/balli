@@ -30,6 +30,8 @@ const ORDER = [
   "cartoons",
   "video-games",
   "superheroes",
+  "marvel-characters",
+  "marvel-films",
   "animals",
   "food-drink",
   "around-the-house",

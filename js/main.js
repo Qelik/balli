@@ -103,7 +103,9 @@ function updateRotateOverlay() {
     const needsLandscape = screen === "round" || screen === "preround";
     const portrait = isPortrait();
     dom.rotateOverlay.hidden = !(needsLandscape && portrait);
-    if (!portrait && countdownPending) {
+    // Only resume a deferred countdown while still on the pre-round screen. A
+    // rotation that arrives mid-round, or on the recap, must not start one.
+    if (!portrait && countdownPending && screen === "preround") {
         countdownPending = false;
         startCountdown();
     }
@@ -212,8 +214,15 @@ function selectDeck(id) {
 async function ensureDeck(id) {
     if (deck?.id === id && bag)
         return;
-    deck = await loadDeck(id);
-    bag = loadBag(deck);
+    const loaded = await loadDeck(id);
+    // Two of these can be in flight at once — a tile tap warms one deck while
+    // Start awaits another. Without this guard the awaits interleave and `deck`
+    // ends up from one call and `bag` from the other, so the round deals cards
+    // through another deck's order array. Last selection wins; the loser drops.
+    if (settings.deckId !== id)
+        return;
+    deck = loaded;
+    bag = loadBag(loaded);
     saveBag(bag);
 }
 function noteRecent(id) {
@@ -386,6 +395,10 @@ function startCalibration() {
 function startCountdown() {
     if (countdownRunning)
         return;
+    // The only screen a countdown belongs to. Guards every deferred and
+    // watchdog-driven path from firing one over a running round.
+    if (screen !== "preround")
+        return;
     // Do not burn the countdown behind the rotate nag — the player cannot see it.
     if (isPortrait()) {
         countdownPending = true;
@@ -437,6 +450,7 @@ function startRound() {
     if (!deck || !bag)
         return;
     countdownRunning = false;
+    countdownPending = false;
     entries = [];
     score = 0;
     bonusMs = 0;
