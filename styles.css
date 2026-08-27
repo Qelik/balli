@@ -54,6 +54,67 @@ body {
   gap: 16px;
 }
 
+/* ── How to play ──────────────────────────────────────────────────── */
+
+#screen-intro.is-active {
+  gap: 14px;
+  justify-content: center;
+}
+
+.intro-wordmark {
+  margin: 0;
+  text-align: center;
+  font-size: clamp(26px, 7vw, 40px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  flex: none;
+}
+
+.intro-steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+  flex: 0 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+}
+
+.intro-steps li {
+  display: grid;
+  grid-template-columns: 32px 1fr;
+  grid-template-rows: auto auto;
+  align-items: baseline;
+  column-gap: 10px;
+  padding: 10px 12px;
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+
+.intro-icon {
+  grid-row: 1 / span 2;
+  align-self: center;
+  font-size: 20px;
+  line-height: 1;
+  text-align: center;
+}
+
+.intro-steps strong {
+  font-size: 15px;
+}
+
+.intro-steps span:last-child {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+#screen-intro .primary-button {
+  flex: none;
+}
+
 /* ── Home ─────────────────────────────────────────────────────────── */
 
 #screen-home.is-active {
@@ -77,7 +138,15 @@ body {
 
 .deck-count {
   margin: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
   color: var(--muted);
+  font-size: 13px;
+}
+
+.deck-count .link-button {
+  padding: 0;
   font-size: 13px;
 }
 
@@ -561,6 +630,24 @@ body {
 @media (orientation: landscape) and (max-height: 460px) {
   .screen.is-active {
     gap: 8px;
+  }
+
+  .intro-wordmark {
+    font-size: 22px;
+  }
+
+  .intro-steps {
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+
+  .intro-steps li {
+    padding: 8px 10px;
+  }
+
+  #screen-intro .primary-button {
+    padding: 12px;
+    font-size: 17px;
   }
 
   .wordmark {

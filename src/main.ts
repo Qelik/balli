@@ -54,11 +54,13 @@ interface Settings {
   seconds: number;
   sound: boolean;
   deckId: string;
+  /** Set once the player has skipped the how-to-play screen. */
+  introSeen: boolean;
 }
 
-const DEFAULT_SETTINGS: Settings = { seconds: 60, sound: true, deckId: "" };
+const DEFAULT_SETTINGS: Settings = { seconds: 60, sound: true, deckId: "", introSeen: false };
 
-type ScreenName = "home" | "preround" | "round" | "recap";
+type ScreenName = "intro" | "home" | "preround" | "round" | "recap";
 
 // ── DOM helpers ─────────────────────────────────────────────────────
 
@@ -69,6 +71,7 @@ function el<T extends HTMLElement>(id: string): T {
 }
 
 const screens: Record<ScreenName, HTMLElement> = {
+  intro: el("screen-intro"),
   home: el("screen-home"),
   preround: el("screen-preround"),
   round: el("screen-round"),
@@ -76,6 +79,8 @@ const screens: Record<ScreenName, HTMLElement> = {
 };
 
 const dom = {
+  introSkip: el<HTMLButtonElement>("intro-skip"),
+  howToPlay: el<HTMLButtonElement>("how-to-play"),
   deckCount: el("deck-count"),
   deckGrid: el("deck-grid"),
   resetDeck: el<HTMLButtonElement>("reset-deck"),
@@ -115,7 +120,7 @@ let deck: Deck | null = null;
 let bag: BagState | null = null;
 let settings: Settings = { ...DEFAULT_SETTINGS, ...(read<Partial<Settings>>(SETTINGS_KEY) ?? {}) };
 let recent: string[] = read<string[]>(RECENT_KEY) ?? [];
-let screen: ScreenName = "home";
+let screen: ScreenName = "intro";
 
 let entries: RoundEntry[] = [];
 let currentCard: Card | null = null;
@@ -301,6 +306,20 @@ function noteRecent(id: string): void {
   recent = [id, ...recent.filter((r) => r !== id)].slice(0, RECENT_MAX);
   write(RECENT_KEY, recent);
 }
+
+// ── How to play ─────────────────────────────────────────────────────
+
+function dismissIntro(): void {
+  if (!settings.introSeen) {
+    settings = { ...settings, introSeen: true };
+    saveSettings();
+  }
+  show("home");
+  renderHome();
+}
+
+dom.introSkip.addEventListener("click", dismissIntro);
+dom.howToPlay.addEventListener("click", () => show("intro"));
 
 dom.deckGrid.addEventListener("click", (event) => {
   const button = (event.target as HTMLElement).closest<HTMLButtonElement>(".deck-tile");
@@ -730,6 +749,7 @@ async function boot(): Promise<void> {
   } catch (error) {
     dom.deckCount.textContent = `Decks failed to load — ${String(error)}`;
     dom.startButton.disabled = true;
+    show("home");
     return;
   }
 
@@ -740,6 +760,7 @@ async function boot(): Promise<void> {
     saveSettings();
   }
   renderHome();
+  show(settings.introSeen ? "home" : "intro");
 
   if (settings.deckId) {
     void ensureDeck(settings.deckId).catch(() => {

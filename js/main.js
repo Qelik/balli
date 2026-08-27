@@ -14,7 +14,7 @@ const COUNTDOWN_FROM = 3;
 /** Time put back on the clock for every card the room gets. */
 const BONUS_MS = 1000;
 const RECENT_MAX = 6;
-const DEFAULT_SETTINGS = { seconds: 60, sound: true, deckId: "" };
+const DEFAULT_SETTINGS = { seconds: 60, sound: true, deckId: "", introSeen: false };
 // ── DOM helpers ─────────────────────────────────────────────────────
 function el(id) {
     const found = document.getElementById(id);
@@ -23,12 +23,15 @@ function el(id) {
     return found;
 }
 const screens = {
+    intro: el("screen-intro"),
     home: el("screen-home"),
     preround: el("screen-preround"),
     round: el("screen-round"),
     recap: el("screen-recap"),
 };
 const dom = {
+    introSkip: el("intro-skip"),
+    howToPlay: el("how-to-play"),
     deckCount: el("deck-count"),
     deckGrid: el("deck-grid"),
     resetDeck: el("reset-deck"),
@@ -66,7 +69,7 @@ let deck = null;
 let bag = null;
 let settings = { ...DEFAULT_SETTINGS, ...(read(SETTINGS_KEY) ?? {}) };
 let recent = read(RECENT_KEY) ?? [];
-let screen = "home";
+let screen = "intro";
 let entries = [];
 let currentCard = null;
 let cardShownAt = 0;
@@ -229,6 +232,17 @@ function noteRecent(id) {
     recent = [id, ...recent.filter((r) => r !== id)].slice(0, RECENT_MAX);
     write(RECENT_KEY, recent);
 }
+// ── How to play ─────────────────────────────────────────────────────
+function dismissIntro() {
+    if (!settings.introSeen) {
+        settings = { ...settings, introSeen: true };
+        saveSettings();
+    }
+    show("home");
+    renderHome();
+}
+dom.introSkip.addEventListener("click", dismissIntro);
+dom.howToPlay.addEventListener("click", () => show("intro"));
 dom.deckGrid.addEventListener("click", (event) => {
     const button = event.target.closest(".deck-tile");
     const id = button?.dataset["deckId"];
@@ -633,6 +647,7 @@ async function boot() {
     catch (error) {
         dom.deckCount.textContent = `Decks failed to load — ${String(error)}`;
         dom.startButton.disabled = true;
+        show("home");
         return;
     }
     const known = new Set(index.decks.map((d) => d.id));
@@ -642,6 +657,7 @@ async function boot() {
         saveSettings();
     }
     renderHome();
+    show(settings.introSeen ? "home" : "intro");
     if (settings.deckId) {
         void ensureDeck(settings.deckId).catch(() => {
             /* reported when Start is pressed */

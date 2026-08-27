@@ -17,11 +17,42 @@
   </head>
   <body>
     <main id="app">
+      <!-- ── How to play (launch screen) ─────────────────────────── -->
+      <section class="screen is-active" id="screen-intro" aria-labelledby="intro-title">
+        <h1 id="intro-title" class="intro-wordmark">Balli</h1>
+        <ol class="intro-steps">
+          <li>
+            <span class="intro-icon" aria-hidden="true">🙋</span>
+            <strong>Hold it up</strong>
+            <span>Phone flat on your forehead, screen facing the room. No peeking.</span>
+          </li>
+          <li>
+            <span class="intro-icon" aria-hidden="true">🗣️</span>
+            <strong>They describe it</strong>
+            <span>Everyone else describes the word — without saying it or rhyming it.</span>
+          </li>
+          <li>
+            <span class="intro-icon" aria-hidden="true">↕️</span>
+            <strong>Tilt to answer</strong>
+            <span>Tip the phone down when you get it, up to pass.</span>
+          </li>
+          <li>
+            <span class="intro-icon" aria-hidden="true">⏱️</span>
+            <strong>Beat the clock</strong>
+            <span>Every right answer puts another second back on the timer.</span>
+          </li>
+        </ol>
+        <button class="primary-button" id="intro-skip" type="button">Skip</button>
+      </section>
+
       <!-- ── Home ───────────────────────────────────────────────────── -->
-      <section class="screen is-active" id="screen-home" aria-labelledby="home-title">
+      <section class="screen" id="screen-home" aria-labelledby="home-title">
         <header class="home-head">
           <h1 id="home-title" class="wordmark">Balli</h1>
-          <p class="deck-count" id="deck-count">Loading decks…</p>
+          <p class="deck-count">
+            <span id="deck-count">Loading decks…</span>
+            <button class="link-button" id="how-to-play" type="button">How to play</button>
+          </p>
         </header>
 
         <div class="deck-grid" id="deck-grid"></div>

@@ -8,8 +8,9 @@ naming question in the spec is settled — it appears in `index.html`,
 `manifest.webmanifest`, `package.json` and the `CACHE` name in `sw.js`.
 
 **Status: phase 1, plus the deck picker.** 22 decks, the timer, the tilt state
-machine, the bag shuffle, a deck grid grouped by language and category, and a
-second added to the clock for every card the room gets. Still missing from
+machine, the bag shuffle, a deck grid grouped by language and category, a
+how-to-play screen on first launch, and a second added to the clock for every
+card the room gets. Still missing from
 phases 2–5: team scoring, the TMDB/Wikidata generator and its cron, custom
 decks over the URL fragment, and card-quality demotion.
 
@@ -75,6 +76,13 @@ regeneration and reshuffle players who had not seen anything new.
 The Albanian decks are the differentiator — nothing else in this genre serves
 Albanian at all. They are handwritten for now; phase 3 replaces the English
 ones with Wikidata `sq` sitelink queries.
+
+## How to play, on launch
+
+`#screen-intro` is the launch screen: four steps, a Skip button, and
+`settings.introSeen` so it only appears once. A **How to play** link in the home
+header brings it back — skipping is not the same as losing it. It is the one
+screen with no rotate nag, because a first launch is usually in portrait.
 
 ## The clock
 

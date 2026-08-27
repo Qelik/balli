@@ -2,7 +2,7 @@
  * Precaches the shell and the decks. The game has to work with the party wifi
  * switched off, so a deck miss is a bug, not a degraded experience.
  */
-const CACHE = "balli-v2";
+const CACHE = "balli-v3";
 
 const SHELL = [
   "./",
